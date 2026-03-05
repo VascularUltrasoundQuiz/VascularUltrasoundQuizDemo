@@ -1,0 +1,2542 @@
+{
+  "0": [
+    "all",
+    {
+      "correctOptionIndex": 1,
+      "explanationDE": "Aufgrund der Position des Schallkopfes sind zwar häufig Venen blau und Arterien rot dargestellt, aber In diesem Bild ist nicht klar, wie der Schallkopf während der Untersuchung positioniert war. Deshalb lässt sich anhand der Färbung keine Aussage über die Art der Gefäße, sondern nur ü ber die Blutflussrichtung treffen.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"1\"",
+      "imageUrl": "Quizfragen_Bilder/1_Basics/1.jpg",
+      "optionsDE": [
+        "Bei der farbkodierten Duplexsonographie steht die blaue Farbe für die Darstellung einer Vene und die rote Farbe für die Darstellung einer Arterie.",
+        "Die Farbkodierung zeigt an, ob sich die Flüssigkeiten auf den Schallkopf zu oder weg bewegen.",
+        "Bei dieser Aufnahme handelt es sich um ein B-Bild oder eine B-Mode Sequenz.",
+        "Mit der farbkodierten Duplexsonographie kann die Geschwindigkeit des Blutflusses ohne Doppler-Modus ermittelt werden."
+      ],
+      "optionsEN": [
+        "Blue colored vessels always depict veins  and red colored vessel always depict arteries.",
+        "Colors within the vessels indicate if blood flow is moving towards the ultrasound probe or away from it.",
+        "This image is a so-called „B-mode“ vascular ultrasound image.",
+        "You can a use color coded sonography to measure blood flow velocity without using a Doppler detection mode."
+      ],
+      "optionsFR": [
+        "En échographie duplex à code couleur, la couleur bleue représente une veine et la couleur rouge représente une artère.",
+        "Le code couleur indique si les fluides se rapprochent ou s'éloignent du transducteur.",
+        "Cet enregistrement est une image B ou une séquence en mode B.",
+        "L'échographie duplex à code couleur peut être utilisée pour déterminer la vitesse du flux sanguin."
+      ],
+      "textDE": "Welche Aussage trifft zu?",
+      "textEN": "The ultrasound image shows two vessels. Which of the following statements is correct?",
+      "textFR": "Quelle affirmation est vraie ?"
+    },
+    {
+      "correctOptionIndex": 0,
+      "explanationDE": "Die Abbildung zeigt kein B-Bild, da es einen farbigen Bereich, sowie eine Blutflussgeschwindigkeitskurve, ermittelt durch die Doppler-Sonographie, zeigt. Diese Kurve ist aufgrund ihres pulsatilen Verlaufs eindeutig einer Arterie, nicht einer Vene zuzuordnen. Die Aorta würde Seitäste abgeben und hätte typischerweise einen geraderen Verlauf.",
+      "explanationEN": "This an example explanation.",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"2\"",
+      "imageUrl": "Quizfragen_Bilder/1_Basics/2.png",
+      "optionsDE": [
+        "Diese Abbildung zeigt farbkodierte Doppler-Sonographie (Duplexsonographie) einer Arterie.",
+        "Es handelt sich um ein sonographisches B-Bild.",
+        "Das Doppler Signal gibt Hinweise auf die Darstellung eines venösen Gefäßes.",
+        "Es handelt sich um eine Aufnahme der Hauptschlagader (Aorta)."
+      ],
+      "optionsEN": [
+        "This is a color coded Doppler sonography vascular ultrasound image of an artery.",
+        "This is a so-called B-mode ultrasound image.",
+        "This image shows a vein.",
+        "This vascular ultrasound image shows details the human aorta."
+      ],
+      "optionsFR": [
+        "Cette image montre une échographie Doppler (échographie duplex) à code couleur d'une artère.",
+        "Il s'agit d'un B-scan échographique.",
+        "Le signal Doppler renseigne sur la représentation d'un vaisseau veineux.",
+        "Ceci est une photo de l'artère principale (aorte)."
+      ],
+      "textDE": "Welche Aussage zu diesem Bild trifft zu?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": "Quelle affirmation à propos de cette image est vraie?"
+    },
+    {
+      "correctOptionIndex": 2,
+      "explanationDE": "Aufgrund des pulsatilen Charakters der Blutflussgeschwindigkeitskurven sind diese Arterien zuzuordnen. Kurve 1 zeigt den typischen Verlauf eines peripheren Gefäßes, während Kurve 2 den typischen Verlauf eines proximalen Gefäßes mit geringem Widerstand zeigt (z.B. A. carotis communis). Die Peak systolische Geschwindigkeit lässt sich am höchsten Punkt der jeweiligen Kurven ablesen: Kurve 1 ca. 80cm/s, Kurve 2 ca. 60cm/s. Turbulente Flussgeschwindigkeiten sind meist deutlich höher, bis zu 200cm/s.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"3\"",
+      "imageUrl": "Quizfragen_Bilder/1_Basics/3.png",
+      "optionsDE": [
+        "Beide Kurven zeigen Geschwindigkeiten des Blutflusses von arteriellen Gefäßen.",
+        "Die höchste (peak) systolische Geschwindigkeit ist in Kurve 1 höher als in Kurve 2.",
+        "Beide Kurven zeigen hohe, turbulente Blutflussgeschwindigkeiten.",
+        "Beiden Kurven zeigen Flussgeschwindigkeiten eines normalen arteriellen Gefäßes, wobei die Lokalisation unterschiedlich ist."
+      ],
+      "optionsEN": [
+        "Both curves show pulsatile blood flow velocity.",
+        "Peak systolic velocity (PSV) is higher in curve one than in curve two. ",
+        "Both curves indicate a severely turbulent blood flow.",
+        "Both curves show arterial blood flow of two differently located arteries."
+      ],
+      "optionsFR": [
+        "Les deux courbes montrent la vitesse pulsatile du flux sanguin.",
+        "La vitesse systolique maximale est plus élevée dans la courbe 1 que dans la courbe 2.",
+        "Les deux courbes permettent d'obtenir une vitesse d'écoulement du sang très turbulente",
+        "Aucune des deux formes d'onde de vitesse de flux Doppler ne montre un signal veineux typique."
+      ],
+      "textDE": "Welche Aussage trifft 𝗻𝗶𝗰𝗵𝘁 zu?",
+      "textEN": "Which of the following statements regarding curves showing flow velocity is 𝗶𝗻𝗰𝗼𝗿𝗿𝗲𝗰𝘁?",
+      "textFR": "Laquelle des affirmations suivantes concernant les courbes indiquant la vitesse d'écoulement n'est pas correcte?"
+    },
+    {
+      "correctOptionIndex": 3,
+      "explanationDE": "Durch die „Invert“-Funktion lassen sich die dargestellten Farben umkehren. Da hier die Färbung also ursprünglich blau war, fließt das Blut tatsächlich vom Schallkopf weg.\nDie Signale der Vene sind atemabhängig und zeigen keinen pulsatilen Verlauf.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"4\"",
+      "imageUrl": "Quizfragen_Bilder/1_Basics/4.jpg",
+      "optionsDE": [
+        "Das Blut fließt vom Schallkopf weg.",
+        "Es handelt sich um eine Aufnahme der Arteria carotis communis.",
+        "Dem hier entstandenen Bild liegt ein Dopplereffekt zugrunde.",
+        "Diese Abbildung zeigt die Blutflussgeschwindigkeit einer Vene."
+      ],
+      "optionsEN": [
+        "Blood flow is directed towards the ultrasound detector.",
+        "This image shows the common carotid artery.",
+        "This image shows the Doppler signal of an artery.",
+        "The image shows blood flow velocity of a vein."
+      ],
+      "optionsFR": [
+        "Le sang s'écoule du transducteur.",
+        "Il s'agit d'une photographie de l'artère carotide commune.",
+        "L'image créée ici est basée sur un effet Doppler.",
+        "L’image montre la vitesse du flux sanguin d'une veine."
+      ],
+      "textDE": "Welche Aussage trifft 𝗻𝗶𝗰𝗵𝘁 zu?",
+      "textEN": "Which of the following statements is 𝗶𝗻𝗰𝗼𝗿𝗿𝗲𝗰𝘁?",
+      "textFR": "Quelle affirmation n’est pas vraie?"
+    },
+    {
+      "correctOptionIndex": 3,
+      "id": "\"5\"",
+      "explanationDE": "Der frühdiastolische Rückfluss (Dip) kommt physiologisch dadurch zustande, dass das Blut aufgrund des Schlusses der Aortenklappe und der elastischen Rückstellung der Gefäßwände kurzzeitig retrograd fließt.\nDie peak-systolische Flussgeschwindigkeit ist die höchste Geschwindigkeit, mit der das Blut in der Systole durch eine Arterien fließt. Sie kann an der rechts im Bild dargestellten Skala abgelesen werden.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "imageUrl": "Quizfragen_Bilder/1_Basics/5.jpg",
+      "optionsDE": [
+        "Diese Abbildung zeigt das sogenannte triphasische  Dopplersignal einer Arterie.",
+        "Es kann sich um eine Darstellung einer Flussgeschwindigkeitskurve mit einem frühdiastolischem Rückfluss (Dip) handeln.",
+        "Die höchste (peak) systolische Flussgeschwindigkeit beträgt ca. 90 cm/s.",
+        "Diese Flussgeschwindigkeitskurve ist typisch für die A. carotis communis"
+      ],
+      "optionsEN": [
+        "This is a so-called  „triphasic“ Doppler signal.",
+        "The curve most likely shows an arterial Doppler signal and not a venous signal.",
+        "Peak-systolic flow velocity is shown to be close to 90 cm/s.",
+        "This flow velocity curve is typical for a vein. "
+      ],
+      "optionsFR": [
+        "Cette image montre le signal Doppler triphasique d'une artère.",
+        "Il peut s'agir d'une représentation d'une courbe de vitesse d'écoulement avec un reflux diastolique précoce (creux).",
+        "La vitesse maximale du flux systolique est d’environ 80 cm/s.",
+        "Cette courbe de vitesse d'écoulement est typique d'une veine."
+      ],
+      "textDE": "Welche Aussage trifft 𝗻𝗶𝗰𝗵𝘁 zu?",
+      "textEN": "You can see a flow velocity curve of a blood vessel. Which of the following statements is 𝗶𝗻𝗰𝗼𝗿𝗿𝗲𝗰𝘁?",
+      "textFR": "Quelle affirmation n’est pas vraie ?"
+    },
+    {
+      "correctOptionIndex": 1,
+      "id": "\"6\"",
+      "explanationDE": "Pulsatil beschreibt eine arterielle Flusskurve, bei der ein deutlich rhythmisches Signal mit den typischen Phasen der Geschwindigkeit des Herzzyklus erkannt werden kann(Beispiel: Kurve 1). In Kurve 2 hingegen, sieht man einen fast gleichmäßigen, kontinuierlichen Blutfluss, bei dem die Werte nahe an der Nulllinie liegen, das Blut also geringe Geschwindigkeiten annimmt. Das entspricht am ehesten der Flusskurve einer Vene, da diese atemabhängig ist.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "imageUrl": "Quizfragen_Bilder/1_Basics/6.png",
+      "optionsDE": [
+        "Beide Kurven stellen eindeutig ein arterielles Gefäß dar.",
+        "Der pulsatile Character des Doppler Signals mit einer laminaren Flusskurve gibt den Hinweis auf eine Arterie.",
+        "Der „gespiegelte“ pulsatile Fluss in Kurve 2 kann als hochturbulent bezeichnet werden. ",
+        "In Kurve 1 erkennt man ein typisches venöses Doppler Signal des Blutflusses. "
+      ],
+      "optionsEN": [
+        "Both curves clearly show arterial blood vessels.",
+        "A pulsatile character of the Doppler signal with a laminar pattern of the curve is indicative of an artery.",
+        "The „mirrored“ pulsatile flow of curve 2 can be called „highly turbulent“.",
+        "The arterial Doppler signal in curve 1 is typical for venous flow."
+      ],
+      "optionsFR": [
+        "Les deux courbes représentent clairement un vaisseau artériel.",
+        "Le caractère pulsatile du signal Doppler avec une courbe de flux laminaire indique une artère.",
+        "L’écoulement pulsatile « en miroir » dans la courbe 2 peut être décrit comme très turbulent.",
+        "Dans la courbe 1, vous pouvez voir un signal Doppler veineux typique du flux sanguin."
+      ],
+      "textDE": "Welche Aussage trifft zu?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": "Quelle affirmations sont vraie?"
+    },
+    {
+      "correctOptionIndex": 2,
+      "id": "\"7\"",
+      "imageUrl": "Quizfragen_Bilder/1_Basics/7.jpg",
+      "optionsDE": [
+        "Diese Abbildung zeigt ein Gefäß, das  nicht komplett mit roter Farbe gefüllt ist. Daher ist die Messung der Flussgeschwindigkeit inkorrekt ",
+        "Die Blutflussgeschwindigkeit kann mit dieser Abbildung nicht bestimmt werden.",
+        "Es handelt sich um ein Bild der A. carotis communis.",
+        "Arterielle Doppler Signale ohne frühdiastolischen Rückfluss (Dip) sind sind immer pathologisch."
+      ],
+      "optionsEN": [
+        "The lumen of this blood vessel is not entirely filled with red color. Thus, flow velocity can not be measured. ",
+        "Blood flow velocity cannot be determined from this image.",
+        "This image shows a normal finding of the common carotid artery.",
+        "Arterial Doppler signals without early distolic dip are always pathologic. "
+      ],
+      "optionsFR": [
+        "Cette illustration montre un récipient qui n'est pas complètement rempli de peinture rouge. La mesure de la vitesse d’écoulement est donc incorrecte.",
+        "La vitesse du flux sanguin ne peut pas être déterminée avec cette image.",
+        "C'est une photo de l'artère carotide commune.",
+        "Les signaux Doppler artériels sans reflux diastolique précoce (creux) sont toujours pathologiques."
+      ],
+      "textDE": "Welche Aussage trifft zu?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": "Quelle affirmation est vraie?"
+    },
+    null,
+    {
+      "correctOptionIndex": 1,
+      "id": "\"8\"",
+      "explanationDE": "In der unten abgebildeten Flusskurve ist ein typische Dopplersignal der A. Carotis communis zu sehen. Pfeil 1 zeigt auf die peak-systolische Geschwindigkeit. Pfeil 2 und 4 zeigen auf die Diastole. Die Klammer bei 3 zeigt die Systole an. Diese Flusskurve muss deutlich von einer Flusskurve eines anderen arteriellen Gefäßes unterschieden werden.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "imageUrl": "Quizfragen_Bilder/1_Basics/8.png",
+      "optionsDE": [
+        "Pfeil 1 zeigt auf den Gipfel der Flusskurve und somit auf die systolische Peak Geschwindigkeit.",
+        "Pfeil 2 zeigt auf eine Blutsrom-Phase, die man Systole bezeichnet.",
+        "Der mit 3 gekennzeichnete Bereich zeigt die Systole.",
+        "Der mit 4 gekennzeichnete Bereich zeigt auf die Diastole."
+      ],
+      "optionsEN": [
+        "Arrow 1 indicates the peak systolic flow velocity.",
+        "Arrow 2 shows the mean systolic blood flow of the blood vesell. ",
+        "Arrow 3  shows flow velocity in systole.",
+        "Arrow 4 shows flow velocity in diastole."
+      ],
+      "optionsFR": [
+        "La flèche 1 pointe vers le pic de la courbe de débit et donc vers la vitesse maximale systolique.",
+        "La flèche 2 indique une phase du flux sanguin appelée systole.",
+        "La zone marquée 3, montre la systole.",
+        "La zone marquée 4, points de diastole."
+      ],
+      "textDE": "Welche Aussage trifft 𝗻𝗶𝗰𝗵𝘁 zu?",
+      "textEN": "Which of the following statements related to the common carotid artery is 𝗶𝗻𝗰𝗼𝗿𝗿𝗲𝗰𝘁?",
+      "textFR": "Quelle affirmation n`est pas vraie?"
+    },
+    {
+      "correctOptionIndex": 2,
+      "explanationDE": "Diese Kurve ist aufgrund ihres pulsatilen Verlaufs eindeutig einer Arterie, nicht einer Vene zuzuordnen. Es handelt sich nicht um die Aorta abdominalis, da diese Seitäste abgeben würde. Solch ein Befund ist typisch für die Arteria carotis communis.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"1\"",
+      "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/1.jpg",
+      "optionsDE": [
+        "Aorta abdominalis",
+        "Vena jugularis interna",
+        "Arteria carotis communis",
+        "Vena cava inferior"
+      ],
+      "optionsEN": [
+        "Abdominal aorta",
+        "Internal jugular vein",
+        "Common carotid artery",
+        "Inferior vena cava"
+      ],
+      "optionsFR": [
+        "Aorte abdominale",
+        "Veine jugulaire interne",
+        "Artère carotide commune",
+        "Veine cave inférieure"
+      ],
+      "textDE": "Welches Gefäß ist hier zu sehen?",
+      "textEN": "Which blood vessel do you recognize? ",
+      "textFR": "Quel vaisseau sanguin peut-on voir ici ?"
+    },
+    {
+      "correctOptionIndex": 0,
+      "id": "\"2\"",
+      "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/2.jpg",
+      "optionsDE": [
+        "Es handelt sich um eine Flusskurve eines arteriellen Gefäßes.",
+        "Es handelt sich um eine Flusskurve eines venösen Gefäßes.",
+        "In diesem Gefäß ist ein turbulenter Blutfluss zu erkennen.",
+        "Die Doppler Kurve zeigt eine negative Flussgeschwindigkeit in der Diastole."
+      ],
+      "optionsEN": [
+        "The image shows a flow verlocity curve of an artery.",
+        "The image shows a flow velocity curve of a vein.",
+        "A turbulent blood flow is present.",
+        "The Doppler wave form shows a negative flow velocity during diastole."
+      ],
+      "optionsFR": [
+        "Il s'agit d'une courbe de débit provenant d'un vaisseau artériel.",
+        "C'est une courbe de débit d'un vaisseau veineux.",
+        "Un flux sanguin turbulent peut être observé dans ce vaisseau.",
+        "La courbe Doppler montre une vitesse d'écoulement négative en diastole."
+      ],
+      "textDE": "Was trifft zu diesem Diagramm zu?",
+      "textEN": "Which statement is correct?",
+      "textFR": "Qu’est-ce qui est vrai dans ce diagramme ?"
+    },
+    {
+      "correctOptionIndex": 3,
+      "explanationDE": "Der steile systolische Anstieg spricht dafür, dass es sich um eine Arterie der Extremitäten handelt. Anatomisch lässt sich außerdem ein so gerader Gefäßverlauf eher nicht bei der A. cerebri media bzw. A. coronaria sinistra finden.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"3\"",
+      "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/3.jpg",
+      "optionsDE": [
+        "A. coronaria sinistra",
+        "V. basilica",
+        "A. cerebri media",
+        "A. radialis"
+      ],
+      "optionsEN": [
+        "Left coronary artery",
+        "Basilical vein",
+        "Median cerebral artery",
+        "Radial artery"
+      ],
+      "optionsFR": [
+        "A. coronaire sinistra",
+        "V. basilique",
+        "A. cérébrale moyenne",
+        "A. radiale"
+      ],
+      "textDE": "Welches Gefäß ist hier zu erkennen?",
+      "textEN": "Which blood vessel do you recognize?",
+      "textFR": "Quel vaisseau sanguin peut-on voir ici? "
+    },
+    {
+      "correctOptionIndex": 2,
+      "explanationDE": "Das triphasische Dopplersignal ist der Normalbefund bei der Dopplersonographie der Arterien. Die Dopplerkurve besteht aus drei verschiedenen Abschnitten: beginnend mit einem steilen Anstieg wird die Systole sichtbar, darauf folgt ein schneller Abfall der Flussgeschwindigkeit mit einer kurzen Rückflusskomponente (je nach Gefäß) zu Beginn der Diastole. Anschließend erneut ein Vorwärtsfluss, in der späten Diastole.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"4\"",
+      "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/4.jpg",
+      "optionsDE": [
+        "Es handelt sich hier nicht um eine Arterie, da Arterien mittels farbcodierter Duplexsonographie automatisch rot dargestellt werden.",
+        "Arterien und Venen sind durch die Farbkodierung des Ultraschallbilds sicher zu unterscheiden.",
+        "Dieses typische arterielle Doppler-Signal dieser Abbildung hilft dabei, die Arterie zu indentifizieren.",
+        "Diese Gefäßabbildung muss eine Vene darstellen, da das abgeleitete Doppler Signal typisch für eine Vene ist. "
+      ],
+      "optionsEN": [
+        "This is not an artery because arteries are automatically depicted in a red color by color-coded Doppler ultrasound.",
+        "Solely color coding the image is sufficient to differenciate between artery and vein.",
+        "The arterial Doppler signal in this image helps to identify the artery.",
+        "This blood vessel must be a vein because its derived Doppler signal is typical for a vein."
+      ],
+      "optionsFR": [
+        "Il ne s’agit pas d’une artère, car les artères sont automatiquement affichées en rouge à l’aide d’une échographie duplex à code couleur.",
+        "Les artères et les veines ne peuvent pas être distinguées à l’aide du mode de code couleur.",
+        "Ce signal Doppler artériel typique dans cette illustration permet d'identifier l'artère.",
+        "Cette image vasculaire doit représenter une veine car le signal Doppler dérivé est typique d'une veine."
+      ],
+      "textDE": "Ist das eine Arterie oder eine Vene? ",
+      "textEN": "Is this an artery or a vein?",
+      "textFR": "Est-ce une artère ou une veine ?"
+    },
+    {
+      "correctOptionIndex": 1,
+      "explanationDE": "Die Kurve zeigt ein triphasisches Doppler-Signal. Knochenstrukturen zeigen sich sonographisch echoreich. Der weiße Pfeil zeigt auf eine solche echoreiche knöcherne Struktur nahe der Arterie.\nEine vollständig verschlossene Arterie hätte keinen Blutfluss mehr - hier ist durch die Farbkodierung jedoch definitiv ein Blutfluss zu erkennen.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"5\"",
+      "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/5.png",
+      "optionsDE": [
+        "Die rot gefärbte Region zeigt eine schwere Gefäßeinengung (weißer Pfeil). ",
+        "Die Abbildung zeigt eine Arterie mit einem triphasischen Doppler Signal nahe einer Knochenstruktur (weißer Pfeil).",
+        "Man sieht eine Vene mit zugehöriger Doppler Kurve, die mit der Atmung variiert.",
+        "Der weiße Pfeil zeigt auf eine vollständig verschlossene Arterie."
+      ],
+      "optionsEN": [
+        "The red colored area shows a very severe vessel lumen narrowing (white arrow).     ",
+        "The image shows an artery displaying a triphasic Doppler signal located close to a bone structure (white arrow).",
+        "This is a vein displaying a typical Doppler wave form varying with respiration.",
+        "This image shows a fully occluded artery (white arrow),"
+      ],
+      "optionsFR": [
+        "A région de couleur rouge montre un rétrécissement vasculaire sévère (flèche blanche).",
+        "La figure montre une artère avec un signal Dopple triphasique à proximité d'une structure osseuse (flèche blanche).",
+        "Vous pouvez voir une veine typique avec une courbe Doppler qui varie en fonction de la réspiration.",
+        "Une artère complètement bouchée (flèche blanche)."
+      ],
+      "textDE": "Welche Aussage trifft zu?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": "Quelle affirmation est vraie ?"
+    },
+    {
+      "correctOptionIndex": 0,
+      "explanationDE": "Sind wie hier zwei Gefäße zu sehen, kann man mithilfe des Dopplersignales und der Blutflussgeschwindigkeitskurve Arterie und Vene unterscheiden. Eine Voraussetzung ist, das Sample Volume in dem Gefäß zu positionieren, das man charakterisieren möchte.\nNeben der A. carotis communis verläuft die V. jugularis interna, nicht die V. jugularis externa. Große Kalkablagerungen sind hier nicht zu sehen. Diese präsentieren sich typischerweise als wandständige, echoreiche -Vorwölbungen-",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"6\"",
+      "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/6.jpg",
+      "optionsDE": [
+        "Arterien können von Venen unterschieden werden, sofern man das Sample Volume des gepulsten Doppler Signal in die Region des Zielgefäßes positioniert.",
+        "Zu sehen ist die A. carotis communis und daneben verläuft die V. jugularis externa.",
+        "Der mittlere Gefäßdurchmesser ist in dieser Abbildung angezeigt.",
+        "Im Lumen der A. carotis communis erkennt man große Kalkablagerungen."
+      ],
+      "optionsEN": [
+        "Arteries can be distinguished from veins by placing the sample volume of pulsed-waved. Doppler signal precisely into the blood vessel region of interest",
+        "You see an image showing the common carotid artery being visualized parallel to internal jugular vein.",
+        "A measurement of the diameter of these blood vessel is shown in this image.",
+        "There are lumen narrowing, atherosclerotic plaques visible of the imaged blood vessels."
+      ],
+      "optionsFR": [
+        "Les artères peuvent être distinguées des veines si le volume d'échantillonnage du signal Doppler pulsé est positionné dans la région du vaisseau cible.",
+        "L'artère carotide commune est visible et la veine jugulaire externe la longe.",
+        "Cette image indique diamètre moyen du vaisseau.",
+        "Dans la lumière de l'aorte. Carotis communis présente d'importants dépôts de calcium."
+      ],
+      "textDE": "Welche Aussage trifft zu?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": "Quelle affirmation est vraie ?"
+    },
+    {
+      "correctOptionIndex": 1,
+      "explanationDE": "Vor einer arteriellen Gefäßengstelle würde man turbulenten Blutfluss (also verschiedene Farben) und hohe Blutflussgeschwindigkeiten erwarten. Wieder zeigt sich ein pulsatiles Signal, weshalb es sich hier nicht um eine Vene handeln kann. Die blaue Farbe hängt von der Position des Schallkopfes während der Untersuchung ab und führt nicht dazu, dass ein Bild nicht interpretierbar ist.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"7\"",
+      "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/7.jpg",
+      "optionsDE": [
+        "Die Abbildung zeigt eine schwere arterielle Gefäßengstelle an. ",
+        "Die gestrichelte Linie im oberen rechten Quandranten der Abbildung zeigt die Messung des Innendurchmessers dieses Gefäßes an.",
+        "Das Doppler Signal der Abbildung zeigt ein venöses Gefäß, welches im Innendurchmesser eingeengt ist.",
+        "Die Abbildung kann nicht interpretiert werden, da eine blaue Farbe im Blutgefäß nicht zu erwarten war."
+      ],
+      "optionsEN": [
+        "A severe narrowing of the blood vessel is shown.",
+        "The dashed line in the upper right quarter of the image show a measurement of the inner diameter of this blood vessel.",
+        "The Doppler signal indicates a venous blood vessel which is  narrowed within its lumen.",
+        "The image can not be interpreted because a blue color with the blood vessel was not to be expected."
+      ],
+      "optionsFR": [
+        "L'illustration montre un sévère rétrécissement artériel.",
+        "La ligne pointillée, dans le quadrant supérieur droit de la figure, indique la mesure du diamètre intérieur de ce vaisseau sanguin.",
+        "Le signal Doppler sur la figure, montre un vaisseau veineux dont le diamètre intérieur est rétréci.",
+        "L'image ne peut pas être interprétée, car une couleur bleue dans le vaisseau sanguin n'était pas attendue."
+      ],
+      "textDE": "Welche Aussage trifft zu? ",
+      "textEN": "Which of the following statements is true?",
+      "textFR": "Quelle affirmation est vraie ?"
+    },
+    {
+      "correctOptionIndex": 3,
+      "explanationDE": "Der periphere Gefäßwiderstand lässt sich anhand der Blutflussgeschwindigkeitskurve ungefähr abschätzen. Sehr steile Kurven gehören zu Gefäßen mit hohem peripherem Gefäßwiderstand, flache Kurven eher zu Gefäßen mit geringerem peripheren Gefäßwiderstand. Hier ist zu erkennen, dass die A. carotis externa eine steilere Kuve, also einen höheren peripheren Gefäßwiderstand, als die A. carotis interna hat. Grund hierfür sind die unterschiedlichen Versorgungsgebiete der Arterien. Mit ca. 50cm/s und 60cm/s sind die PSVs dennoch recht ähnlich.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"8\"",
+      "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/8.png",
+      "optionsDE": [
+        "Der periphere Gefäßwiderstand ist in der  A. carotis interna höher als in der A. carotis externa.",
+        "Die A. carotis interna gibt im Halsbereich Seitäste ab,  wohingegen die A. carotis externa direkt zum Gehirn führt.",
+        "Eine Stenose der A. carotis externa kann zu einem Media-Infarkt führen.",
+        "Beide Gefäße weisen eine ähnlich niedrige systolische-Peak Flussgeschwindigkeiten (PSV=peak systolic velocity) auf."
+      ],
+      "optionsEN": [
+        "The peripheral vascular resistance of the  internal carotid artery is higher than that of the external carotid artery.",
+        "The internal carotid artery gives off sidebranches in the cervical region, while the external carotid artery ascends directly to the brain.",
+        "A stenosis of the external carotid artery can lead to a middle cerebral artery infarction.",
+        "Both blood vessels have similarly low peak systolic velocities (PSV) displayed by their  Doppler flow velocity curves."
+      ],
+      "optionsFR": [
+        "La résistance vasculaire périphérique est plus élevée dans l’artère carotide interne que dans l’artère carotide externe.",
+        "L'artère carotide interne dégage des branches latérales dans la région du cou, tandis que l'artère carotide externe mène directement au cerveau.",
+        "Les deux vaisseaux de l'artère carotide représentés naissent toujours du tronc brachial.",
+        "Les deux vaisseaux ont des vitesses de flux systolique maximales tout aussi faibles. (PSV = vitesse systolique maximale)"
+      ],
+      "textDE": "Welche Aussage trifft zu?",
+      "textEN": "Which of these statements related to the carotid artery is correct?",
+      "textFR": "Quelle affirmation est vraie ?"
+    },
+    {
+      "correctOptionIndex": 0,
+      "id": "\"9\"",
+      "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/9.png",
+      "optionsDE": [
+        "Der grüne Pfeil zeigt auf eine Arterie. Es handelt sich dabei um die A. carotis communis.",
+        "Eine Arterie liegt immer unterhalb einer Vene.",
+        "Der grüne Pfeil zeigt genau auf die V. jugularis interna.",
+        "Das Doppler-Signal zeigt ein turbulente Flussgeschwindigkeit des Blutes."
+      ],
+      "optionsEN": [
+        "The green arrow points at an artery which is called the common carotid artery.",
+        "The artery is always located under the vein.",
+        "The green arrow points exactly to the jugular vein.",
+        "The Doppler signal indicates turbulent blood flow velocity."
+      ],
+      "optionsFR": [
+        "La flèche verte pointe vers une artère. Il s'agit de l'artère carotide commune.",
+        "Une artère se trouve toujours sous une veine.",
+        "La flèche verte pointe exactement vers la veine jugulaire interne.",
+        "Le signal Doppler montre une vitesse d'écoulement turbulente du sang."
+      ],
+      "textDE": "Welche Aussage trifft zu?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": "Quelle affirmation est vraie ?"
+    },
+    {
+      "correctOptionIndex": 2,
+      "explanationDE": "Anhand der Flusskurve kann man bereits abschätzen, dass es sich um ein peripheres Gefäß handeln muss. Zu sehen ist hier also nicht die A. carotis interna, sondern die A. femoralis communis. Ein “Okklusions“-Doppler Signal bedeutet, dass man während der Sonographie von einem Gefäß nur wenige bis stark gedämpfte Signale ableiten kann, beispielsweise aufgrund von Stenosen oder Verengungen. Solch ein Signal ist hier nicht abgebildet.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"10\"",
+      "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/10.jpg",
+      "optionsDE": [
+        "Die Abbildung zeigt einen typischen Befund der A. carotis interna",
+        "Das Bild eines arteriellen Aneuysmas mit seinem typischem Bild der Flussgeschwindigkeit.  ",
+        "Die Abbildung zeigt eine normale A. femoralis communis. ",
+        "Ein thrombotischer Verschluss in der in der A. femoralis communis erkennbar an seinem typischen „Okklusions“-Doppler Signal."
+      ],
+      "optionsEN": [
+        "The image shows a typcial ultrasound Doppler image of the common carotid artery. ",
+        "The image shows an aneurysm with its typical flow velocity pattern.",
+        "The image shows a normal  common femoral artery.  ",
+        "The image shows a thrombotic occlusion of the common femoral artery as indicated by its typical „occlusion“ Doppler signal."
+      ],
+      "optionsFR": [
+        "L'illustration montre une artère carotide interne typique.",
+        "L'image d'un anévrisme artériel avec son image typique de vitesse d'écoulement.",
+        "L'image montre une artère fémorale commune normale.",
+        "Une occlusion thrombotique dans l'artère fémorale commune peut être reconnue par son signal Doppler typique d'< occlusion >."
+      ],
+      "textDE": "Was ist hier zu sehen?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": "Quelle affirmation est correcte ?"
+    },
+    {
+      "correctOptionIndex": 3,
+      "explanationDE": "Die A. carotis communis und die A. vertebralis versorgen beide das Gehirn mit sauerstoffreichem Blut, das vom Herzen kommt. Der Blutfluss findet also nicht gegenläufig sondern in die gleiche Richtung statt. Beim „Subclavian Steel Syndrom“ verlaufen die Blutflüsse der beiden Gefäße gegenläufig, allerdings ist der Befund dann pathologisch.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"11\"",
+      "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/11.png",
+      "optionsDE": [
+        "Pfeil 1 zeigt auf einen Wirbelkörper.",
+        "Pfeil 2 zeigt auf das Lumen der A. vertebralis.",
+        "Die gestrichelte weiße Linie zeigt die Messung eines Gefäßlumendurchmessers an.",
+        "Der Blutfluss in der A. vertebralis verläuft gegenläufig zum Blutfluss der A. carotis communis."
+      ],
+      "optionsEN": [
+        "Arrow 1 points to a vertebral bone.",
+        "Arrow 2 points the lumen of the vertebral artery.",
+        "The white dashed line through the vessel lumen indicates a  measurement of the diameter.",
+        "The blood flow in the veterbral artery is reversed relative to the blood flow direction of the common carotid artery."
+      ],
+      "optionsFR": [
+        "La flèche 1 pointe vers un corps vertébral.",
+        "La flèche 2 pointe vers la lumière de l'artère vertébrale.",
+        "La ligne blanche pointillée indique la mesure du diamètre de la lumière d'un vaisseau.",
+        "Le flux sanguin dans l’artère vertébrale n’est pas dirigé vers le cerveau et circule dans le sens opposé à celui de l’artère carotide commune."
+      ],
+      "textDE": "Welche Aussage zur Arteria vertebralis trifft 𝗻𝗶𝗰𝗵𝘁 zu?",
+      "textEN": "You see an ultrasound image of the vertebral artery. Which of the following statements is 𝗶𝗻𝗰𝗼𝗿𝗿𝗲𝗰𝘁?",
+      "textFR": "Quelle affirmation concernant l’artère vertébrale n’est pas juste ?"
+    },
+    {
+      "correctOptionIndex": 0,
+      "id": "\"12\"",
+      "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/12.jpg",
+      "optionsDE": [
+        "Die duplexsonographische Aufnahme zeigt den Normalbefund einer A. tibialis.",
+        "Die Flussgeschwindigkeit in diesem arteriellen Abschnitt ist zu niedrig für eine A. tibialis.",
+        "Die Farbkodierung zeigt eine massive Gefäßeinengung. ",
+        "Die gezeigte Flussgeschwindigkeitskurve ist typisch für ein aortales Flussprofil."
+      ],
+      "optionsEN": [
+        "The image shows a normal finding of the tibial artery",
+        "The indicated value of peak systolic flow velocity (PSV) of 20 cm/s is too low for a tibial artery.",
+        "The color coding indicates a massive lumen narrowing of the vessel.",
+        "The flow velocity curve shown is typical for an aortic flow pattern."
+      ],
+      "optionsFR": [
+        "L'image échographique duplex montre les résultats normaux d'une artère tibiale.",
+        "La vitesse d'écoulement dans cette section artérielle est trop faible pour une artère tibiale.",
+        "Le code de couleur montre une constriction vasculaire massive.",
+        "La courbe de vitesse d’écoulement présentée est typique d’un profil d’écoulement aortique."
+      ],
+      "textDE": "Welche Aussage trifft zu?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": "Quelle affirmation est vraie ?"
+    },
+    {
+      "correctOptionIndex": 0,
+      "explanationDE": "Venen haben eine elastischeren Wandaufbau als Arterien und sind oft von der Haut ausgehend, d.h. von außen komprimierbar. Lässt sich das Lumen der Vene durch Kompression mit dem Schallkopf von außen komplett verschließen (B), so ist diese wahrscheinlich nicht thrombotisch verändert. Lässt die Vene sich jedoch nicht komprimieren, kann ein Thrombus im Gefäßlumen vorliegen, da dieser die Vene starr macht und das Lumen füllt, wodurch sie nicht mehr komprimierbar ist.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"1\"",
+      "imageUrl": "/Quizfragen_Bilder/3_Normalbefunden_von_Venen/1.png",
+      "optionsDE": [
+        "Zu sehen ist im oberen Bild (A) eine offene Vene.",
+        "Die Befunde beider Bilder lassen auf einen thrombotischen Verschluss  der Vene schließen.",
+        "Venen sind beim gesunden Menschen nicht von außen komprimierbar.",
+        "Während einer Kompression (Bild B) kann man nicht erkennen, ob die Vene offen oder verstopft ist."
+      ],
+      "optionsEN": [
+        "Image A shows the open lumen of the vein.",
+        "The findings of both images suggest a thrombotic occlusion of the vein.",
+        "Veins cannot be compressed externally.",
+        "During compression (image B), it is not possible to determine whether the vein is open or clogged."
+      ],
+      "optionsFR": [
+        "Dans l'image du haut (A), vous pouvez voir une veine ouverte sans compression par la sonde.",
+        "L´image ci-dessus montre clairement une occlusion thrombotique de la veine.",
+        "Chez les personnes en bonne santé, les veines ne peuvent pas être comprimées de l'extérieur.",
+        "Dans l'image ci-dessous (B), pendant la compression, vous ne pouvez pas voir si la veine est ouverte ou bloquée."
+      ],
+      "textDE": "Sie sehen das B-Bild des Querschnitts der V. saphena magna im Normalzustand (A) und unter Kompression (B). Welche Aussage trifft zu?",
+      "textEN": "You see a B-mode image of a cross- section of the great saphenous vein not being compressed (A) and being compressed (B). Which of the following statements is correct?",
+      "textFR": "Vous pouvez voir l'image B de la coupe transversale de la veine saphène dans son état normal (A) et en dessous comprimée avec la sonde échographique (B). Quelle affirmation est vraie ?"
+    },
+    {
+      "correctOptionIndex": 3,
+      "id": "\"2\"",
+      "imageUrl": "/Quizfragen_Bilder/3_Normalbefunden_von_Venen/2.jpg",
+      "optionsDE": [
+        "Aufgrund des geraden, oberflächlichen Gefäßverlaufes.",
+        "Venen sind mit farbkodierter Duplexsonographie leichter zu erkennen als Arterien.",
+        "Gefäße mit großem Diameter sind schwer auseinander zu halten. Gefäße mit kleinem Durchmesser sind dagegen leicht zu finden, weil sie oberflächlich nahe an der Haut liegen.",
+        "Eine Vene lässt sich durch ein variables, atemabhängiges Dopplersignal mit charakteristischem Kurvenverlauf erkennen"
+      ],
+      "optionsEN": [
+        "Only veins typically have a straight, superficial course. ",
+        "Veins are easier to detect than arteries by vascular ultrasound.",
+        "Large diameter blood vessels are difficult to distinguish. Small  arteries and veins are easy to find because they are located close to the skin.",
+        "A vein shows a variable dopple flow velocity curve which can be modifed by respiration."
+      ],
+      "optionsFR": [
+        "En raison du trajet superficiel rectiligne des vaisseaux sanguins.",
+        "Les veines sont plus faciles à identifier que les artères lors d'une échographie duplex à code couleur.",
+        "Les vaisseaux de grand diamètre sont difficiles à distinguer. En revanche, les vaisseaux de petit diamètre sont faciles à trouver, car ils sont superficiellement proches de la peau.",
+        "Une veine peut être identifiée par un signal Doppler variable dépendant de la respiration avec une courbe caractéristique."
+      ],
+      "textDE": "Wie können Venen mittels farbkodierter Duplexsonographie erkannt werden?",
+      "textEN": "How can veins be identified in duplex sonography?",
+      "textFR": "Pourquoi est-ce une veine ? "
+    },
+    {
+      "correctOptionIndex": 1,
+      "explanationDE": "Anhand des Farbsignals alleine lässt sich keine Aussage darüber treffen, ob es sich um arterielle oder venöse Gefä ße handelt. Bild A und B zeigen jedoch einen ähnlichen, für die Crosse typischen Gefäßverlauf, was darauf hindeutet, dass beide Bilder venöse Gefäße zeigen. Bei venösen Gefäßmündungen wie hier kann es zu leichten Verwirbelungen beim Zusammenfließen des Blutes kommen – dementsprechend zeigen die Bilder Normalbefunde und keine Pathologie.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"3\"",
+      "imageUrl": "/Quizfragen_Bilder/3_Normalbefunden_von_Venen/3.png",
+      "optionsDE": [
+        "Die Mündung der oberflächlichen V. saphena magna in das tiefe Venensystem der V. femoralis wird als Crosse (Venenstern) bezeichnet.",
+        "Auf dem linken Bild (A) sieht man venöses Blut und auf dem rechten Bild (B) arterielles Blut.",
+        "Die verschiedenen Farben innerhalb der abgebildeten Gefäße deuten auf eine  normale, nicht-turbulente Strömungs-bzw. Flussbewegung hin.",
+        "Auf den Bildern A und B sieht man einen pathologischen Befund welcher zeitnah therapiert werden sollte."
+      ],
+      "optionsEN": [
+        "Superficial saphenous vene sidebranches originating from the deep common femoral vein are called „venous star“.",
+        "The left image (A) shows venous blood. The right image (B) show arterial blood.",
+        "Different colors within the vessels indicate a normal, non-turbulent blood flow.",
+        "Both images A and B show a pathological finding which should be treated quickly."
+      ],
+      "optionsFR": [
+        "La connexion de la veine saphène superficielle dans le réseau veineux profond de la veine fémorale est appelée crosse (étoile veineuse).",
+        "L'image de gauche (A) montre du sang veineux et l'image de droite montre du sang artériel.",
+        "Les différentes couleurs (bleu/rouge) à l'intérieur des vaisseaux représentés, indiquent un mouvement d écoulement sanguin normale et non turbulent.",
+        "L'image A et B sont normales par la veine pendant la respiration."
+      ],
+      "textDE": "Welche Aussage trifft 𝗻𝗶𝗰𝗵𝘁 zu?",
+      "textEN": "Which of the following statements is 𝗶𝗻𝗰𝗼𝗿𝗿𝗲𝗰𝘁?",
+      "textFR": "Quelle affirmation n’est pas vraie ?"
+    },
+    {
+      "correctOptionIndex": 3,
+      "explanationDE": "Arterien haben eine dickere Gefäßwand als Venen, was sich sonographisch darstellen lässt. Das im Bild A rechte Gefäß zeigt eine dickere Wand als das linke. Außerdem zeigen Venen in der Nachbarschaft von Arterien oft ein größeres Lumen, welches oft nicht ganz rund ist und sich atemabhängig verändern kann. Wäre die Vene durch einen Thrombus verstopft, ließe sie sich nicht vollständig komprimieren. In Bild B wurde die Vene durch den Untersucher mit dem Schallkopf vollständig\nA A\nkomprimiert. Bild A und B zeigen somit den Normalbefund einer sogenannten -Kompressionssonographie-.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"4\"",
+      "imageUrl": "/Quizfragen_Bilder/3_Normalbefunden_von_Venen/4.png",
+      "optionsDE": [
+        "Die kompressionssonographische Aufnahme zeigt ein pathologisches Ergebnis.",
+        "Das Gefäß mit dem größeren Lumen ist eine Arterie.",
+        "Eine Verstopfung der Vene durch einen Thrombus lässt sich sonographisch nicht erkennen.",
+        "Man kann Venen und Arterien anhand ihrer Wanddicke unterscheiden."
+      ],
+      "optionsEN": [
+        "The compression sonography image shows a pathological finding.",
+        "The vessel displaying the larger diameter is an artery.",
+        "A thrombotic occlusion of the vein cannot be identified through sonography.",
+        "Arteries and veins can be distinguished by wall thickness."
+      ],
+      "optionsFR": [
+        "L’image du haut montre une compression vasculaire de l’extérieur avec des résultats pathologiques.",
+        "Les vaisseaux avec une lumière vasculaire plus grande sont appelés artères.",
+        "Vous ne pouvez pas distinguer les veines des artères en fonction de leur épaisseur de paroi.",
+        "La compression de la veine dans le lit vasculaire artérielle et veineuse, ne montre aucun signe pathologique dans le sens d'un caillot sanguin ou d'un blocage de la veine."
+      ],
+      "textDE": "Sie sehen ein normales B-Bild (A) und das B-Bild einer Kompressionssonographie (B) Welche Aussage trifft zu?",
+      "textEN": "This is normal ultrasound B-mode image (A) and its comression sonography view (B). Which of the following statements is correct?",
+      "textFR": "Vous voyez une image B normale (A) et l'image B d'une échographie de compression (B). Quelle affirmation est correcte ?"
+    },
+    {
+      "correctOptionIndex": 2,
+      "explanationDE": "Venenklappen lassen sich sonographisch nicht immer darstellen. Kann man sie aber darstellen, geben sie auch ohne Doppler Signal sonographisch Hinweis auf eine Vene. Sie sind also ein wichtiges Unterscheidungsmerkmal zwischen Venen und Arterien.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"5\"",
+      "imageUrl": "/Quizfragen_Bilder/3_Normalbefunden_von_Venen/5.png",
+      "optionsDE": [
+        "Die Abbildung zeigt zwei nebeneinander liegende Venen.",
+        "Der weiße Pfeil zeigt auf eine Engstelle.",
+        "Der weiße Pfeil zeigt auf eine Venenklappe.",
+        "Ohne farbkodierte Duplex-Sonographie mit Doppler Funktion ist diese Abbildung nicht zu interpretieren."
+      ],
+      "optionsEN": [
+        "The image shows two veins side by side.",
+        "The white arrow points to a narrowing of the vessel.",
+        "The white arrow points to a venous valve. ",
+        "The image cannot be interpreted without the color-coded Dopper flow velocity information."
+      ],
+      "optionsFR": [
+        "L’illustration montre deux veines côte à côte.",
+        "La flèche blanche indique obstruction vasculaire.",
+        "Sur la photo, la flèche blanche pointe vers une valvule veineuse.",
+        "Sans échographie duplex à code couleur avec fonction Doppler, cette image est difficile à interpréter. "
+      ],
+      "textDE": "Welche Aussage trifft zu?",
+      "textEN": "Which of the following statements is correct? ",
+      "textFR": "Quelle affirmation est vraie ? "
+    },
+    {
+      "correctOptionIndex": 3,
+      "explanationDE": "Ein Aneurysma ist eine Aufweitung der Wand eines Gefäßes. Hier handelt es sich um ein Aneurysma sacciforme (sack- oder ballonförmige Aufweitung). Eine Stenose (Engstelle) ist bei echoleerem Lumen des Gefäßes unwahrscheinlich. Im Bereich des Aneurysmas wirkt das Lumen echoreicher, was auf eine veränderte und z.T. verlangsamte Blutzirkulation durch die Visualisierung von korpuskulären Blutanteilen hindeutet.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"1\"",
+      "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/1.jpg",
+      "optionsDE": [
+        "Eine Stenose an der Bifurkation der A. carotis. ",
+        "Eine Stenose der A. femoralis communis.",
+        "Eine Fistel zwischen Arterie und Vene.",
+        "Ein Aneurysmasack ausgehend von der A femoralis communis."
+      ],
+      "optionsEN": [
+        "A stenosis of the common carotid artery bifurcation.",
+        "A stenosis of the common femoral artery.",
+        "A fistula between an artery and a vein.",
+        "An aneurysmal sack originating from the common femoral artery."
+      ],
+      "optionsFR": [
+        "Une sténose (point étroit) de la bifurcation de l’artère carotide.",
+        "Une sténose de l'artère fémorale commune.",
+        "Une fistule entre une artère et une veine.",
+        "Un sac anévrismal provenant de l'artère fémorale commune."
+      ],
+      "textDE": "Welches Krankheitsbild ist hier gezeigt?",
+      "textEN": "Which vascular pathology is shown? ",
+      "textFR": "Quel tableau clinique est présenté ici ?"
+    },
+    {
+      "correctOptionIndex": 2,
+      "explanationDE": "Pfeil 2 zeigt auf die Bifurcatio carotis (Aufzweigung der A. carotis). Pfeil 3 zeigt das typische Bild einer arteriosklerotischen Plaque: Durch das sehr echoreiche Material(Gefäßkalk) entsteht eine dorsale Schallauslöschung, welche als Schallschatten sichtbar ist. Plaques treten häufig in Blutgefäßabschnitten auf, an denen Scherkräfte und Strömungsänderungen auf die Gefäßwand wirken, wie bei Verzweigungen (wie im gezeigten Beispiel) oder Gefäßkrümmungen.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"2\"",
+      "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/2.png",
+      "optionsDE": [
+        "Pfeil 1 zeigt auf eine arteriovenöse Fistel.",
+        "Pfeil 2 zeigt auf eine pathologische Struktur innerhalb der Arterie.  ",
+        "Pfeil 3 zeigt auf einen kalzifizierten arteriosklerotischen Plaque mit einem Schallschatten (weißer Pfeil).",
+        "Pfeil 2 und Pfeil 3 zeigen auf pathologische Veränderungen im Gefäß. "
+      ],
+      "optionsEN": [
+        "Arrow 1 points to an arterialvenous fistula.",
+        "Arrow 2 points to the tip of a pathological structure within an artery.",
+        "Arrow 3 indicates a calcified atherosclerotic plaque associated with an acoustic shadow (white arrow).",
+        "Arrow 2 and arrow 3 both point to pathologic findings in the vessel."
+      ],
+      "optionsFR": [
+        "La flèche 1 indique une fistule artérioveineuse.",
+        "La flèche 2 indique une structure pathologique au sein de l'artère.",
+        "La flèche 3 indique une plaque athéroscléreuse calcifiée au niveau de la bifurcation carotidienne avec une plaque, avec une ombre acoustique (flèche blanche).",
+        "Les flèches 2 et 3 indiquent des changements pathologiques dans le vaisseau."
+      ],
+      "textDE": "Gezeigt ist das B-Bild einer Karotisbifurkation. Welche der folgenden Aussagen trifft zu?",
+      "textEN": "Which of the following statements is correct? ",
+      "textFR": "Laquelle des affirmations suivantes est vraie ?"
+    },
+    {
+      "correctOptionIndex": 2,
+      "explanationDE": "Arteriosklerotische Plaques werden, je nach Symptomatik, erst bei einem Stenosegrad von >50% behandelt. Ein Notfall läge beispielsweise vor, wenn Schlaganfallsymptome bestehen, die sich auf eine Plaqueruptur zurückführen lassen. Bei asymptomatischen Patient*innen liegt hier aber kein Notfall vor. Geringe arteriosklerotische Plaques sind keine relevanten Engstellen und werden weder kathetertechnisch noch operativ behandelt.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"3\"",
+      "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/3.jpg",
+      "optionsDE": [
+        "Dieser Befund stellt bei asymptomatischen PatientInnen einen Notfall dar.",
+        "Dieses Ultraschallbild zeigt eine pathologische Gefäßdissektion.",
+        "Man sieht die Aufzweigung der A. carotis mit einem kleinen kalzifizierten, arteriosklerotischen Plaque.",
+        "Der schwarze Inhalt des Gefäßlumens der A. carotis zeigt einen Thrombus."
+      ],
+      "optionsEN": [
+        "This finding constitutes a medical emergency, even in asymptomatic patients.",
+        "The ultrasound image shows a pathologic vessel dissection.",
+        "The image shows the common carotid artery bifurcation presenting a small calcified atherosclerotic plaque.",
+        "The black inner contents of the common carotid artery lumen indicates a blood clot (thrombosis)."
+      ],
+      "optionsFR": [
+        "Cette image échographique montre un résultat clinique absolument fatal.",
+        "Cette image échographique montre une dissection vasculaire pathologique en 2 parties.",
+        "carotide avec une petite plaque calcifiée et artérioscléreuse.",
+        "Le contenu noir de la lumière vasculaire de l'artère carotide indique un caillot sanguin (thrombose)."
+      ],
+      "textDE": "Welche der folgenden Aussagen ist richtig?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": "Lesquelles des affirmations suivantes sont correctes ?"
+    },
+    {
+      "correctOptionIndex": 1,
+      "explanationDE": "Bei gesunden Erwachsenen beträgt der Durchmesser der Aorta ca. 2,5-3,5cm. Der hier gezeigte Befund mit einem Durchmesser von maximal 4,21 cm stellt ein Bauchaortenaneurysma dar. Operativ behandelt wird ein Bauchaortenaneurysma in der Regel ab einem Durchmesser von 5,0 cm bei Frauen oder5,5 cm bei Männern oder einem sehr raschen Wachstum des Aneurysmas. Der weiße Pfeil deutet auf einen wandständigen Thrombus (geronnenes Blut) hin.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"4\"",
+      "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/4.png",
+      "optionsDE": [
+        "Dieser Befund wird immer operativ behandelt.",
+        "Eine schwerwiegende Komplikation dieses Befundes kann eine Ruptur der Aorta sein.",
+        "Der schwarze, sichelförmige Bereich (weißer Pfeil) im Gefäßlumen ist ein kalzifizierter ateriosklerotischer Plaque.",
+        "Beim gesunden Erwachsenen hat die Aorta einen Durchmesser von 6 cm."
+      ],
+      "optionsEN": [
+        "This finding will always be operated on. ",
+        "A serious complication of this finding may be a rupture of the aorta.",
+        "The black, crescent-shaped area (white arrow) within the vessel lumen is a calcified atherosclerotic plaque.",
+        "An aorta in healthy adults usually has a diameter of 6 cm."
+      ],
+      "optionsFR": [
+        "Cette constatation est toujours traitée chirurgicalement.",
+        "Une complication grave de cette constatation peut être une rupture aortique.",
+        "La zone noire en forme de croissant (flèche blanche) dans la lumière du vaisseau n’est certainement pas un caillot sanguin.",
+        "Chez un adulte en bonne santé, l’aorte a un diamètre de 6 cm."
+      ],
+      "textDE": "Welche der folgenden Aussagen trifft zu?",
+      "textEN": "Which of the following statements is correct? ",
+      "textFR": "Laquelle des affirmations suivantes est vraie ?"
+    },
+    {
+      "correctOptionIndex": 1,
+      "id": "\"5\"",
+      "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/5.png",
+      "optionsDE": [
+        "Es imponiert ein vollständiger Gefäßverschluss",
+        "Der grüne Pfeil zeigt auf einen semizirkulären wandständige Plaque.",
+        "Es handelt sich um einen Normalbefund.",
+        "Der grüne Pfeil deutet auf einen Aneurysmasack der A. carotis communis."
+      ],
+      "optionsEN": [
+        "The common carotid artery is completely occluded.",
+        "The common carotid artery is narrowed by a semicircular arteriosclerotic plaque (green arrow).",
+        "This image shows a normal finding of the common carotid artery.",
+        "This image shows an aneurysmal formation of the common carotid artery."
+      ],
+      "optionsFR": [
+        "Une occlusion vasculaire complète.",
+        "La flèche verte indique une plaque murale semi-circulaire dans un segment de l'artère carotide.",
+        "Une constatation normale.",
+        "Un anévrisme de l'artère carotide commune."
+      ],
+      "textDE": "Man sieht den sonographischen Querschnitt (A) und den Längschnitt (B) der A. carotis communis. Welche der folgenden Aussagen ist richtig?",
+      "textEN": "This ultrasound image shows a common carotid artery in a crosssectional view (A) and a longitudinal view (B). Which of the following statements is correct?",
+      "textFR": "La coupe échographique transversale (A) et la coupe longitudinale (B) de l'artère carotide sont ici représentées. Laquelle des affirmations suivantes est correcte ?"
+    },
+    {
+      "correctOptionIndex": 2,
+      "explanationDE": "Für reproduzierbare Messungen sollten die Diameter so gemessen werden, das die Messungen orthogonal zueinander und am breitesten Durchmesser liegen.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"6\"",
+      "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/6.jpg",
+      "optionsDE": [
+        "Dieser Befund erfordert eine zusätzliche Anwendung der farbkodierten Duplex-Sonographie.",
+        "Patient*innen mit einem solchen Befund können komplett asymptomatisch sein.",
+        "Diese Abbildung zeigt höchstwahrscheinlich eine vollständig gefüllte Harnblase und erfordert keine weitere Abklärung.",
+        "Die Messungen der gestrichelten Linie geben die Diameter des Organs nicht exakt wieder."
+      ],
+      "optionsEN": [
+        "This B-mode ultrasound image requires further examination by applying color-coded Doppler ultrasound.",
+        "Patients with this finding can be entirely asymptomatic.",
+        "This image most likely shows a completely filled urinary bladder and does not require investigation.",
+        "The measurements indicated by the dashed lines do not accurately represent the diameter of the organ."
+      ],
+      "optionsFR": [
+        "Cette constatation nécessite l’utilisation supplémentaire d’une échographie duplex à code couleur.",
+        "Les patients présentant un tel symptôme peuvent être complètement asymptomatiques.",
+        "Cette image montre très probablement une vessie complètement pleine et ne nécessite pas d’évaluation supplémentaire.",
+        "Les mesures de la ligne pointillée sont complètement incorrectes et ne doivent pas être discutées."
+      ],
+      "textDE": "Welche Aussage trifft 𝗻𝗶𝗰𝗵𝘁 zu?",
+      "textEN": "Which of the following statements is 𝗶𝗻𝗰𝗼𝗿𝗿𝗲𝗰𝘁?",
+      "textFR": "Quelle affirmation n’est pas correcte ?"
+    },
+    {
+      "correctOptionIndex": 1,
+      "explanationDE": "Ein -falsches- oder iatrogen bedingtes Aneurysma (Aneurysma spurium) ist keine primär pathologische Gefäßaufweitung einer Arterie, sondern eine eingriffsbedingte, blutgefüllte Aussackung innerhalb der Gefäßwand, die mit dem Lumen der Arterie in Verbindung steht. Der Stichkanal, z.B. nach einer Gefäßpunktion, bildet dabei den Hals des falschen Aneurysmas. Der Hals lässt sich auch durch eine charakteristische Dopplerkurve nachweisen (hier nicht dargestellt). Eine Bakerzyste zeigt normalerweise kein Farbsignal oder einen dopplersonographischen Flussnachweis, da es sich hierbei um eine nicht vaskularisierte Zyste handelt.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"7\"",
+      "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/7.png",
+      "optionsDE": [
+        "Ein Thrombus (Blutgerinnsel, Clot) in einem Gefäß.",
+        "Ein falsches Aneurysma der A. femoralis  mit Stichkanal nach arterieller Punktion. ",
+        "Ein wahres Aneurysma eines neugeborenen Kindes.",
+        "Bei diesem Ultraschallbefund handelt sich um eine Bakerzyste in der Region der Kniekehle."
+      ],
+      "optionsEN": [
+        "A Blood clot (thrombus) within a vessel.",
+        "A false aneurysm after arterial puncture originating from the femoral artery.",
+        "A true aneurysm in a newborn child.",
+        "The ultrasound image shows a Baker‘s cyst located in the popliteal fossa."
+      ],
+      "optionsFR": [
+        "Caillot de sang (thrombus) dans un vaisseau.",
+        "Un faux anévrisme de l'artère fémorale avec canal de ponction après ponction artérielle ",
+        "Un véritable anévrisme d'un nouveau-né.",
+        "Cette échographie montre un kyste de Baker dans la région de la fosse poplitée."
+      ],
+      "textDE": "Welches vaskuläre Krankheitsbild ist hier zu sehen?",
+      "textEN": "Which vascular pathology do you recognize?",
+      "textFR": "Quelle maladie vasculaire est observée ici ?"
+    },
+    {
+      "correctOptionIndex": 3,
+      "explanationDE": "Typisch für den Farbjet eines Aneurysma spurium ist der Pendelfluss: Dieser entsteht durch unterschiedliche Druckverhältnisse. Während in der Systole das Blut in das Aneurysma hineingepresst wird (rotes Farbsignal), fließt es in der Diastole zurück in das Gefäß (blaues Farbsignal).",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"8\"",
+      "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/8.gif",
+      "optionsDE": [
+        "Das Video zeigt einen normalen Blutstrom von einer Arterie in den Seitenast einer Arterie.",
+        "Man erkennt eine arteriovenöse Malformation wegen der unterschiedlichen Blutströme.",
+        "Man erkennt auf dem Video eine Fistel von einer Arterie zu einer Vene.",
+        "Zu sehen ist ein falsches, teilthrombosiertes Aneurysma spurium mit gut darstellbarem Farbjet aus der Arterie in den Aneurysmasack."
+      ],
+      "optionsEN": [
+        "This video shows a normal blood stream into  an arterial side branch.",
+        "An arteriovenous malfomation can be identified by the divergent flow directions of arterial and venous blood.",
+        "This is  an arteriovenous fistula.",
+        "This video shows a false aneuysm with a visible arterial jet into a partially thrombosed aneurysmal sac."
+      ],
+      "optionsFR": [
+        "La vidéo montre un flux sanguin normal dans la branche latérale d’une artère.",
+        "Une malformation artérioveineuse peut être reconnue grâce aux différents flux sanguins.",
+        "La vidéo montre une fistule allant de l'artère à la veine.",
+        "Faux anévrisme, partiellement thrombosé avec jet de couleur clairement visible (flèche blanche) de l'artère dans le sac anévrismal."
+      ],
+      "textDE": "Welche Aussage trifft  zu?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": "Quelle affirmation est correcte ?"
+    },
+    {
+      "correctOptionIndex": 1,
+      "id": "\"9\"",
+      "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/9.png",
+      "optionsDE": [
+        "Es handelt sich um einen Normalbefund.",
+        "Es handelt um ein B-Bild mit auffälliger, echoreicher Struktur innerhalb des Gefäßlumens (weißer Pfeil).",
+        "Eine Farbkodierung während der Real-Time Untersuchung wäre nicht hilfreich gewesen.",
+        "Ein Doppler-Signal wird in dieser Abbildung gezeigt."
+      ],
+      "optionsEN": [
+        "This is an ultrasound image of a vessel which shows no pathologies.",
+        "An intraluminal echogenic structure is visible within the lumen of the vessel (white arrow).",
+        "A color coded image analysis would not have been helpful in establishing the diagnosis",
+        "You can see an image showing a Doppler effect."
+      ],
+      "optionsFR": [
+        "Il s’agit d’une constatation normale.",
+        "Il s'agit d'une image en mode B avec une structure hyperéchogène visible dans la lumière du vaisseau (flèche blanche).",
+        "Un codage couleur lors de l’examen en temps réel n’aurait pas été utile.",
+        "Un signal Doppler est représenté sur cette figure."
+      ],
+      "textDE": " Welche Aussage trifft zu?",
+      "textEN": " Wich of the following statements is correct?",
+      "textFR": "Quelle affirmation est correcte ?"
+    },
+    {
+      "correctOptionIndex": 2,
+      "explanationDE": "Eine arteriovenöse Fistel beschreibt eine pathologische Verbindung zwischen einer Arterie und Vene (2 verschiedene Gefäße). Hier ist jedoch nur ein Gefäß, die A. radialis, zu sehen. Der Pfeil zeigt auf eine intraluminale Struktur, die sich mittels Ultraschall nicht eindeutig identifizieren lässt. Diese ist entweder ein -intimaler Flap- oder eine Gefäßdissektion (Einriss einer Gefäßwandschicht) .",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"10\"",
+      "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/10.png",
+      "optionsDE": [
+        "Der Pfeil zeigt auf eine arteriovenöse Fistel.",
+        "Das Gefäßlumen wird vollständig eingeengt durch die mit dem Pfeil markierte Struktur.",
+        "Der Pfeil zeigt auf eine Struktur im Gefäßlumen, die ein Plaque, ein intimaler Flap oder eine Gefäßdissektion sein könnte.",
+        "Dieses B-Bild eignet sich sehr gut zur Beurteilung der Geschwindigkeit des Blutstroms."
+      ],
+      "optionsEN": [
+        "The green arrow indicates an arteriovenous fistula.",
+        "There is complete vascular occlusion resulting from the structure indicated by the green arrow.",
+        "The arrow indicates an intraluminal structure which could be a plaque, an intimal flap or a vessel dissection.",
+        "This image is perfectly suitable to evaluate the velocity of the blood stream."
+      ],
+      "optionsFR": [
+        "La flèche indique une fistule artérioveineuse.",
+        "La lumière du vaisseau est complètement rétrécie par la structure indiquée par la flèche.",
+        "La flèche pointe vers une structure dans la lumière du vaisseau, qui pourrait être une plaque, un lambeau intimal ou une dissection vasculaire.",
+        "Cette image en mode B est très approprier pour l’évaluation du flux sanguin."
+      ],
+      "textDE": "Zu sehen ist eine Aufnahme der A. radialis. Welche Aussage trifft zu?",
+      "textEN": "Which of the following statements related to this ultrasound image of the radial artery is correct?",
+      "textFR": "L'image montrée est celle de l'artère radiale. Quelle affirmation est correcte ?"
+    },
+    {
+      "correctOptionIndex": 3,
+      "explanationDE": "Der -Aliasing-Effekt- ist ein Artefakt der Doppler-Sonographie. Hierbei werden in der Farbdarstellung Blutflussgeschwindigkeiten oft fälschlicherweise zu hoch oder in die andere Richtung dargestellt. Dies kann ein Zeichen für zu hohe oder turbulente Blutströme sein. Die hier gezeigte zugehörige Dopplerkurve zeigt jedoch einen Normalbefund.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"11\"",
+      "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/11.jpg",
+      "optionsDE": [
+        "Anhand der Flusskurve lässt sich  eindeutig erkennen, um welche Gefäßregion (z.B. Arm oder Bein) es sich handelt.",
+        "Die gelbe, grüne und blaue Färbung des farbkodierten Gefäßbildes zeigen einen pathologischen, hoch turbulenten Fluss an.",
+        "Diese Aufnahme entsteht routinemäßig bei einer Venen-Diagnostik.",
+        "Obwohl „Aliasing“ Farbveränderungen in der Farbkodierung des Gefäßes zu sehen sind, zeigt das gepulste Doppler Signal einen Normalbefund der Arterie an."
+      ],
+      "optionsEN": [
+        "From this image, it can easily be determined which region is shown (upper limb, lower limb).",
+        "The yellow, green and blue color changes within the colour coded Doppler image indicate a pathologic, highly turbulent blood flow.",
+        "This image is typical of a venous sonography.",
+        "Although „aliasing“ color changes are visible within the vessel lumen, a normal artery can be diagnosed by evaluating the flow velocity spectrum derived from the Doppler signal."
+      ],
+      "optionsFR": [
+        "La courbe de flux montre clairement quelle région vasculaire (par exemple, le bras ou la jambe) est impliquée.",
+        "La coloration jaune, verte et bleue de l'image du vaisseau à code couleur indique un écoulement pathologique très turbulent.",
+        "Cette image est prise systématiquement lors du diagnostic veineux.",
+        "Bien que des changements de couleur d'aliasing puissent être observés dans le code couleur du vaisseau, le signal Doppler pulsé indique une observation normale de l'artère."
+      ],
+      "textDE": "Welche Aussage trifft  zu?",
+      "textEN": "Which of the following statements regarding an arterial vessel in the leg is correct?",
+      "textFR": "Quelle affirmation est correcte ?"
+    },
+    {
+      "correctOptionIndex": 0,
+      "id": "\"12\"",
+      "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/12.png",
+      "optionsDE": [
+        "Pfeil 1 zeigt auf einen stark kalzifizierten arteriosklerotischen Plaque einer Arterie.",
+        "Pfeil 2 zeigt nicht die Region im sonographischen Bild an, in der ein „akustischer Schatten“ des Ultraschalls durch den Kalkplaque auftritt.",
+        "Der Kalkplaque verursacht einen kompletten Gefäßverschluss. ",
+        "Arteriosklerotische Plaques sind normalerweise fettreich und sehr selten verkalkt."
+      ],
+      "optionsEN": [
+        "Arrow 1 indicates a heavily calcified arterioscleotic plaque within an arterial wall.",
+        "Arrow 2 does not indicate an area of „acoustic ultrasound shadowing“ caused by the calcified plaque.",
+        "There is complete vascular occlusion caused by the calcified atherosclerotic plaque.",
+        "Atherosclerotic plaques are normally „fatty plaques“ and are very rarely calcified."
+      ],
+      "optionsFR": [
+        "La flèche 1 indique une plaque athéroscléreuse fortement calcifiée dans une artère.",
+        "La flèche 2 n’indique pas la région de l’image échographique où une « ombre acoustique » de l’échographie se produit en raison de la plaque calcifiée.",
+        "La plaque de calcium provoque un blocage complet des vaisseaux sanguins.",
+        "Les artères artérioscléreuses sont généralement riches en graisse et très rarement calcifiées."
+      ],
+      "textDE": " Welche Aussage trifft zu?",
+      "textEN": " Which of the following statements is correct?",
+      "textFR": "Quelle affirmation est correcte ?"
+    },
+    {
+      "correctOptionIndex": 1,
+      "explanationDE": "Einen venösen Thrombus kann man sonographisch an seiner erhöhten Echogenität und an seiner unregelmäßigen, intraluminalen Struktur erkennen. Die Vene kann man hier von der Arterie unterscheiden, da sein Lumen nicht ganz rund ist und die Vene eine dünnere Gefäßwand besitzt als die Arterie (hier unterhalb der Vene). Ein arteriosklerotischer, arterieller Plaque würde an der Arterienwand haften und nicht wie der venöse Thrombus hier frei im Lumen liegen.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"1\"",
+      "imageUrl": "/Quizfragen_Bilder/5_Pathologien_von_Venen/1.png",
+      "optionsDE": [
+        "Einen normalen Gefäßbefund.",
+        "Ein Thrombus (Blutgerinnsel, Clot) ist im Lumen der Vena jugularis interna zu sehen (grüner Pfeil).",
+        "Der Pfeil deutet auf einen arteriosklerotischen Plaque in einer Arterie.",
+        "Gezeigt ist die Aneurysmabildung eines Gefäßes, ohne relevanten Krankheitswert."
+      ],
+      "optionsEN": [
+        "This is a normal sonographic finding of a vascular structure. ",
+        "A thrombus (blood clot) is visible within the lumen of the internal jugular vein (green arrow).",
+        "An arteriosclerotic plaque within an artery.",
+        "Aneurysmal dialtion of a vessel that would otherwise appear normal."
+      ],
+      "optionsFR": [
+        "Un résultat vasculaire normal.",
+        "Un caillot sanguin (thrombus) est visible dans la lumière de la veine jugulaire interne (flèche verte).",
+        "Une plaque athéroscléreuse dans une artère.",
+        "La formation d’un anévrisme dans un vaisseau qui, autrement, aurait été jugé normal."
+      ],
+      "textDE": "Was ist hier zu finden und welche Aussage trifft zu?",
+      "textEN": "What can be observed here and which the following statements is correct?",
+      "textFR": "Que peut-on trouver ici et quelle affirmation est correcte ?"
+    },
+    {
+      "correctOptionIndex": 1,
+      "id": "\"2\"",
+      "imageUrl": "/Quizfragen_Bilder/5_Pathologien_von_Venen/2.png",
+      "optionsDE": [
+        "Die Abbildung zeigt einen arteriosklerotischen Plaque der A. carotis communis.",
+        "Die Abbildung zeigt einen Thrombus (Blutgerinnsel, Clot) in der Jugularvene, welcher locker an der Gefäßwand anhaftet.",
+        "Das Lumen des Gefäßes ist vollständig eingeengt durch die Struktur.",
+        "Es handelt sich um zwei B-Bilder, welche nur Gefäßquerschnitte zeigen."
+      ],
+      "optionsEN": [
+        "This image clearly shows an arteriosclerotic plaque within carotid artery.",
+        "This image shows a venous thrombus (blood clot) of the jugular vein, loosely attached to the vessel wall.",
+        "The vessel lumen is completely obstructed by the structure.",
+        "Both ultrasound B-mode images show only transversal vessel cross-sections."
+      ],
+      "optionsFR": [
+        "L'image montre clairement une plaque d'athérosclérose de l'artère carotide",
+        "L’illustration montre un caillot de sang veineux (thrombus) dans la veine jugulaire, qui est faiblement attaché à la paroi vasculaire",
+        "La lumière du vaisseau est complètement rétrécie par la structure. ",
+        "Il s'agit d'une paire de B-scans qui montrent uniquement des coupes transversales des vaisseaux. "
+      ],
+      "textDE": "Welche Aussage trifft zu?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": "Quelle affirmation est vraie?"
+    },
+    {
+      "correctOptionIndex": 2,
+      "explanationDE": "Hier sieht man einen Thrombus in der Vena jugularis interna. Da diese Vene anatomisch unter dem M. sternocleidomasteoideus liegt, sind die Vene und auch der Thrombus (grüner Pfeil) nicht tastbar. Bei oberflächlichen Thrombophlebitiden z.B. in der V. saphena magna, kann ein tastbarer schmerzhafter Strang typisch sein. Der venöse Blutfluss ist links mit abgegrenzten Farbflächen (blau und rot) gekennzeichnet, was leichte Verwirbelungen des Blutes im Bereich des\n  Thrombus anzeigt (linkes Bild, Längsschnitt durch die Vene).",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"3\"",
+      "imageUrl": "/Quizfragen_Bilder/5_Pathologien_von_Venen/3.png",
+      "optionsDE": [
+        "Das farbkodierte Bild zeigt Blutfluss klar außerhalb des Gefäßes an.  ",
+        "Durch die farbcodierte Duplexsonographie kann man v.a. im rechten Bild(B) Verwirbelungen des Blutes erkennen.",
+        "Beide Pfeile zeigen auf einen Thrombus (Blutgerinnsel, Clot), dargestellt in einer transversalen Bildebene (A) und in der longitudinalen Bildebene (B).",
+        "Die V. jugularis interna ist durch dieses Krankheitsbild in manchen Fällen als verhärteter schmerzhafter Strang tastbar."
+      ],
+      "optionsEN": [
+        "The color coded images show flow outside of the blood vessels",
+        "Colour-coded Doppler sonography reveals turbulent blood flow, particularly in the right image (B).",
+        "Both arrows indicate a venous blood clot (thrombus) shown in  transversal- (A) and a longitudinal (B) planes of the images.",
+        "In some cases, the internal jugular vein can be palpated as a firm and painful cord due to this pathology."
+      ],
+      "optionsFR": [
+        "L’image à code couleur montre clairement le flux sanguin à l’extérieur du vaisseau.",
+        "L'échographie duplex à code couleur permet de détecter les turbulences dans le sang, en particulier sur l'image de droite.",
+        "Les deux flèches pointent vers un caillot sanguin veineux (caillot, thrombus), représenté dans un plan d'image transversal (A) et dans le plan d'image longitudinal (B).",
+        "En raison de ce tableau clinique, la veine jugulaire interne peut dans certains cas être palpée comme un cordon durci et douloureux."
+      ],
+      "textDE": " Welche der folgenden Aussage trifft zu?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": " Laquelle des affirmations suivantes est vraie ?"
+    },
+    {
+      "correctOptionIndex": 0,
+      "explanationDE": "Ein solcher venöser Thrombus kann gefährlich werden, da der Thrombus sich von der Gefäßwand lösen und abschwimmen kann. So kann er über den venösen Blutfluss Lungengefäße erreichen und zu einer Lungenembolie führen. Ein organisierter, älterer Thrombus haftet hingegen meist sehr fest an der Wand, bewegt sich nicht frei im Blutstrom und hat somit ein geringes Embolierisiko.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"4\"",
+      "imageUrl": "/Quizfragen_Bilder/5_Pathologien_von_Venen/4.gif",
+      "optionsDE": [
+        "Man erkennt in diesem Video einen flottierenden Thrombus vor einer Venenklappe.",
+        "Das dargestellte Gefäß auf dem Video ist wahrscheinlich eine Arterie.",
+        "Bei diesem Befund besteht keine Gefahr für eine Lungenembolie.",
+        "Die Struktur im Blutstrom erscheint sonographisch „echoreich“ und somit ungefährlich, da sie bereits organisiert ist."
+      ],
+      "optionsEN": [
+        "In this video, a floating thrombus can be identified within the lumen of a vein located behind a venous valve.",
+        "The vessel shown must be an artery.",
+        "There is no risk of pulmoray embolims associated with this finding.",
+        "The intraluminal structure appears to be „echogenic“ and therefore must already be organised and harmless."
+      ],
+      "optionsFR": [
+        "Dans cette vidéo, vous pouvez voir un thrombus flottant devant une valve veineuse.",
+        "Le vaisseau montré dans la vidéo doit être une artère.",
+        "Avec cette constatation, il n’y a aucun risque d’embolie pulmonaire.",
+        "La structure dans la circulation sanguine apparaît échographiquement « hypoéchogène » ou contenant des échos et est donc inoffensive, car elle est déjà organisée."
+      ],
+      "textDE": "Welche der folgenden Aussagen trifft zu?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": "Laquelle des affirmations suivantes est vraie ?"
+    },
+    {
+      "correctOptionIndex": 1,
+      "id": "\"5\"",
+      "imageUrl": "/Quizfragen_Bilder/5_Pathologien_von_Venen/5.png",
+      "optionsDE": [
+        "Bei diesem Befund besteht nicht die Gefahr einer Lungenembolie.",
+        "Pfeil 1 zeigt auf ein ein Thrombus (Blutgerinnsel, Clot) in der V. saphena magna. Pfeil 2 zeigt auf den Thrombus in der V. femoralis.",
+        "Pfeil 2 zeigt auf ein Blutgerinnsel in der Arteria femoralis.",
+        "Es ist ein kalkreicher, arteriosklerotischer Plaque in einer Arterie zu erkennen."
+      ],
+      "optionsEN": [
+        "This sonographic finding is not associated with an increased risk of pulmonary embolism.",
+        "Arrow 1 indicates a thrombus (blood clot) within the saphenous vein. Arrow 2 indicates a thrombus within the femoral vein.",
+        "Arrow 2 indicates a thrombus in the  common femoral artery.",
+        "The image demonstrates a tyical appearance of a calcium-rich arteriosclerotic plaque within an artery."
+      ],
+      "optionsFR": [
+        "Avec cette constatation, il n’y a aucun risque d’embolie pulmonaire.",
+        "La flèche 1 indique un caillot sanguin (thrombus) dans la grande veine saphène. La flèche 2 pointe vers le caillot (thrombus) dans la veine fémorale (jonction du système veineux profond et superficiel dans l'aine).",
+        "La flèche 2 indique un caillot sanguin dans l’artère fémorale.",
+        "Une plaque calcifiée et artérioscléreuse peut être observée dans une artère."
+      ],
+      "textDE": "Welche der folgenden Aussagen ist richtig?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": "Laquelle des affirmations suivantes est correcte ?"
+    },
+    {
+      "correctOptionIndex": 2,
+      "id": "\"6\"",
+      "imageUrl": "/Quizfragen_Bilder/5_Pathologien_von_Venen/6.gif",
+      "optionsDE": [
+        "Eine venöse Aufzweigung und eine Venenklappe. ",
+        "Ein Blutgerinnsel im Gefäßlumen eines venösen Gefäßes, das wahrscheinlich durch milde Kompression der untersuchten Region nachgewiesen wurde.",
+        "Ein Aneurysma der Femoralarterie.",
+        "Mehrere arterielle und venöse Gefäße, die übereinander liegend dargestellt wurden."
+      ],
+      "optionsEN": [
+        "The presence of a venous bifurcation and a venos valve.",
+        "A thrombus (blood clot) in a vein, indicated by incomplete external vein compression.",
+        "A aneurysmal dilation of the femoral artery.",
+        "Several arterial and venous vessels visualized on top of each other."
+      ],
+      "optionsFR": [
+        "Une branche veineuse et une valvule veineuse.",
+        "Un caillot sanguin dans la lumière vasculaire d'une branche veineuse, détecté par une légère compression de la région examinée.",
+        "Un anévrisme de l'artère fémorale.",
+        "Plusieurs vaisseaux artériels et veineux représentés couchés les uns sur les autres."
+      ],
+      "textDE": "Welche Gefäßkonfiguration kann 𝗻𝗶𝗰𝗵𝘁 von diesem Video abgeleitet werden?",
+      "textEN": "Which vascular finding cannot be derived from this ultrasound video?",
+      "textFR": "Quelle configuration de vaisseau sanguin ne peut pas être déduite de cette vidéo ?"
+    },
+    {
+      "correctOptionIndex": 2,
+      "explanationDE": "Eine arteriovenöse Fistel beschreibt eine pathologische Verbindung zwischen einer Arterie und Vene. Diese kann man im Ultraschall anhand des turbulenten Mischflusses und „Aliasing“ erkennen. Die Farben wechseln schnell zwischen Rot und Blau. Manchmal kann man ein -Jet-Phänomen- erkennen, bei dem deutlich sichtbare helle Farbjets vom arteriellen in das venöse Lumen strömen.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"7\"",
+      "imageUrl": "/Quizfragen_Bilder/5_Pathologien_von_Venen/7.gif",
+      "optionsDE": [
+        "Eine Stenose der A. femoralis.",
+        "Ein Thrombus (Blutgerinnsel, Clot) in der A. femoralis.",
+        "Eine AV-Fistel der A. femoralis und V. femoralis (grüner Pfeil).",
+        "Ein Thrombus in der V. femoralis."
+      ],
+      "optionsEN": [
+        "A stenosis of the femoral artery.",
+        "A thrombus in the femoral artery.",
+        "An arteriovenous fistula between the femoral artery and the femoral vein.",
+        "A thrombus within the femoral vein."
+      ],
+      "optionsFR": [
+        "Une sténose de l'artère fémorale.",
+        "Un caillot (thrombus) dans l’artère fémorale.",
+        "Une fistule AV de l'artère fémorale et de la veine fémorale (flèche verte).",
+        "Un caillot (thrombus) dans la veine fémorale."
+      ],
+      "textDE": "Welche Pathologie ist hier zu erkennen?",
+      "textEN": "Which pathology can be recognized here? ",
+      "textFR": "Quelle pathologie peut-on observer ici ?"
+    }
+  ],
+  "1": [
+    "weekly",
+    {
+      "correctOptionIndex": 1,
+      "id": "1",
+      "imageUrl": "Quizfragen_Bilder/test_picture_4.png",
+      "optionsDE": [
+        "Wenn die V. saphena magna oder V. saphena parva in das tiefe Venensystem mündet, dann wird das als Magna- oder Parvacrosse bezeichnet.",
+        "Auf dem linken Bild sieht man venöses Blut und auf dem rechten Bild arterielles Blut.",
+        "Die verschiedenen Farben innerhalb eines Gefäßes deuten bei der farbcodierten Duplexsonographie auf eine Verwirbelung oder Strömungsumkehr hin.",
+        "Auf den Bildern sieht man Gefäße des sogenannten Venensterns."
+      ],
+      "optionsEN": [
+        "Aorta0EN",
+        "Aorta1",
+        "Aorta2",
+        "Aorta3EN"
+      ],
+      "textDE": "Auf dem Bild ist die Mündung der V. saphena magna in die V. femoralis zu sehen. Welche Aussage trifft nicht zu?",
+      "textEN": "What kind of vein is this?"
+    }
+  ],
+  "2": [
+    "Duplexsonographie",
+    {
+      "correctOptionIndex": 1,
+      "explanationDE": "Aufgrund der Position des Schallkopfes sind zwar häufig Venen blau und Arterien rot dargestellt, aber In diesem Bild ist nicht klar, wie der Schallkopf während der Untersuchung positioniert war. Deshalb lässt sich anhand der Färbung keine Aussage über die Art der Gefäße, sondern nur ü ber die Blutflussrichtung treffen.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"1\"",
+      "imageUrl": "Quizfragen_Bilder/1_Basics/1.jpg",
+      "optionsDE": [
+        "Bei der farbkodierten Duplexsonographie steht die blaue Farbe für die Darstellung einer Vene und die rote Farbe für die Darstellung einer Arterie.",
+        "Die Farbkodierung zeigt an, ob sich die Flüssigkeiten auf den Schallkopf zu oder weg bewegen.",
+        "Bei dieser Aufnahme handelt es sich um ein B-Bild oder eine B-Mode Sequenz.",
+        "Mit der farbkodierten Duplexsonographie kann die Geschwindigkeit des Blutflusses ohne Doppler-Modus ermittelt werden."
+      ],
+      "optionsEN": [
+        "Blue colored vessels always depict veins  and red colored vessel always depict arteries.",
+        "Colors within the vessels indicate if blood flow is moving towards the ultrasound probe or away from it.",
+        "This image is a so-called „B-mode“ vascular ultrasound image.",
+        "You can a use color coded sonography to measure blood flow velocity without using a Doppler detection mode."
+      ],
+      "optionsFR": [
+        "En échographie duplex à code couleur, la couleur bleue représente une veine et la couleur rouge représente une artère.",
+        "Le code couleur indique si les fluides se rapprochent ou s'éloignent du transducteur.",
+        "Cet enregistrement est une image B ou une séquence en mode B.",
+        "L'échographie duplex à code couleur peut être utilisée pour déterminer la vitesse du flux sanguin."
+      ],
+      "textDE": "Welche Aussage trifft zu?",
+      "textEN": "The ultrasound image shows two vessels. Which of the following statements is correct?",
+      "textFR": "Quelle affirmation est vraie ?"
+    },
+    {
+      "correctOptionIndex": 0,
+      "explanationDE": "Die Abbildung zeigt kein B-Bild, da es einen farbigen Bereich, sowie eine Blutflussgeschwindigkeitskurve, ermittelt durch die Doppler-Sonographie, zeigt. Diese Kurve ist aufgrund ihres pulsatilen Verlaufs eindeutig einer Arterie, nicht einer Vene zuzuordnen. Die Aorta würde Seitäste abgeben und hätte typischerweise einen geraderen Verlauf.",
+      "explanationEN": "This an example explanation.",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"2\"",
+      "imageUrl": "Quizfragen_Bilder/1_Basics/2.png",
+      "optionsDE": [
+        "Diese Abbildung zeigt farbkodierte Doppler-Sonographie (Duplexsonographie) einer Arterie.",
+        "Es handelt sich um ein sonographisches B-Bild.",
+        "Das Doppler Signal gibt Hinweise auf die Darstellung eines venösen Gefäßes.",
+        "Es handelt sich um eine Aufnahme der Hauptschlagader (Aorta)."
+      ],
+      "optionsEN": [
+        "This is a color coded Doppler sonography vascular ultrasound image of an artery.",
+        "This is a so-called B-mode ultrasound image.",
+        "This image shows a vein.",
+        "This vascular ultrasound image shows details the human aorta."
+      ],
+      "optionsFR": [
+        "Cette image montre une échographie Doppler (échographie duplex) à code couleur d'une artère.",
+        "Il s'agit d'un B-scan échographique.",
+        "Le signal Doppler renseigne sur la représentation d'un vaisseau veineux.",
+        "Ceci est une photo de l'artère principale (aorte)."
+      ],
+      "textDE": "Welche Aussage zu diesem Bild trifft zu?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": "Quelle affirmation à propos de cette image est vraie?"
+    },
+    {
+      "correctOptionIndex": 2,
+      "explanationDE": "Aufgrund des pulsatilen Charakters der Blutflussgeschwindigkeitskurven sind diese Arterien zuzuordnen. Kurve 1 zeigt den typischen Verlauf eines peripheren Gefäßes, während Kurve 2 den typischen Verlauf eines proximalen Gefäßes mit geringem Widerstand zeigt (z.B. A. carotis communis). Die Peak systolische Geschwindigkeit lässt sich am höchsten Punkt der jeweiligen Kurven ablesen: Kurve 1 ca. 80cm/s, Kurve 2 ca. 60cm/s. Turbulente Flussgeschwindigkeiten sind meist deutlich höher, bis zu 200cm/s.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"3\"",
+      "imageUrl": "Quizfragen_Bilder/1_Basics/3.png",
+      "optionsDE": [
+        "Beide Kurven zeigen Geschwindigkeiten des Blutflusses von arteriellen Gefäßen.",
+        "Die höchste (peak) systolische Geschwindigkeit ist in Kurve 1 höher als in Kurve 2.",
+        "Beide Kurven zeigen hohe, turbulente Blutflussgeschwindigkeiten.",
+        "Beiden Kurven zeigen Flussgeschwindigkeiten eines normalen arteriellen Gefäßes, wobei die Lokalisation unterschiedlich ist."
+      ],
+      "optionsEN": [
+        "Both curves show pulsatile blood flow velocity.",
+        "Peak systolic velocity (PSV) is higher in curve one than in curve two. ",
+        "Both curves indicate a severely turbulent blood flow.",
+        "Both curves show arterial blood flow of two differently located arteries."
+      ],
+      "optionsFR": [
+        "Les deux courbes montrent la vitesse pulsatile du flux sanguin.",
+        "La vitesse systolique maximale est plus élevée dans la courbe 1 que dans la courbe 2.",
+        "Les deux courbes permettent d'obtenir une vitesse d'écoulement du sang très turbulente",
+        "Aucune des deux formes d'onde de vitesse de flux Doppler ne montre un signal veineux typique."
+      ],
+      "textDE": "Welche Aussage trifft 𝗻𝗶𝗰𝗵𝘁 zu?",
+      "textEN": "Which of the following statements regarding curves showing flow velocity is 𝗶𝗻𝗰𝗼𝗿𝗿𝗲𝗰𝘁?",
+      "textFR": "Laquelle des affirmations suivantes concernant les courbes indiquant la vitesse d'écoulement n'est pas correcte?"
+    },
+    {
+      "correctOptionIndex": 3,
+      "explanationDE": "Durch die „Invert“-Funktion lassen sich die dargestellten Farben umkehren. Da hier die Färbung also ursprünglich blau war, fließt das Blut tatsächlich vom Schallkopf weg.\nDie Signale der Vene sind atemabhängig und zeigen keinen pulsatilen Verlauf.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"4\"",
+      "imageUrl": "Quizfragen_Bilder/1_Basics/4.jpg",
+      "optionsDE": [
+        "Das Blut fließt vom Schallkopf weg.",
+        "Es handelt sich um eine Aufnahme der Arteria carotis communis.",
+        "Dem hier entstandenen Bild liegt ein Dopplereffekt zugrunde.",
+        "Diese Abbildung zeigt die Blutflussgeschwindigkeit einer Vene."
+      ],
+      "optionsEN": [
+        "Blood flow is directed towards the ultrasound detector.",
+        "This image shows the common carotid artery.",
+        "This image shows the Doppler signal of an artery.",
+        "The image shows blood flow velocity of a vein."
+      ],
+      "optionsFR": [
+        "Le sang s'écoule du transducteur.",
+        "Il s'agit d'une photographie de l'artère carotide commune.",
+        "L'image créée ici est basée sur un effet Doppler.",
+        "L’image montre la vitesse du flux sanguin d'une veine."
+      ],
+      "textDE": "Welche Aussage trifft 𝗻𝗶𝗰𝗵𝘁 zu?",
+      "textEN": "Which of the following statements is 𝗶𝗻𝗰𝗼𝗿𝗿𝗲𝗰𝘁?",
+      "textFR": "Quelle affirmation n’est pas vraie?"
+    },
+    {
+      "correctOptionIndex": 3,
+      "id": "\"5\"",
+      "explanationDE": "Der frühdiastolische Rückfluss (Dip) kommt physiologisch dadurch zustande, dass das Blut aufgrund des Schlusses der Aortenklappe und der elastischen Rückstellung der Gefäßwände kurzzeitig retrograd fließt.\nDie peak-systolische Flussgeschwindigkeit ist die höchste Geschwindigkeit, mit der das Blut in der Systole durch eine Arterien fließt. Sie kann an der rechts im Bild dargestellten Skala abgelesen werden.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "imageUrl": "Quizfragen_Bilder/1_Basics/5.jpg",
+      "optionsDE": [
+        "Diese Abbildung zeigt das sogenannte triphasische  Dopplersignal einer Arterie.",
+        "Es kann sich um eine Darstellung einer Flussgeschwindigkeitskurve mit einem frühdiastolischem Rückfluss (Dip) handeln.",
+        "Die höchste (peak) systolische Flussgeschwindigkeit beträgt ca. 90 cm/s.",
+        "Diese Flussgeschwindigkeitskurve ist typisch für die A. carotis communis"
+      ],
+      "optionsEN": [
+        "This is a so-called  „triphasic“ Doppler signal.",
+        "The curve most likely shows an arterial Doppler signal and not a venous signal.",
+        "Peak-systolic flow velocity is shown to be close to 90 cm/s.",
+        "This flow velocity curve is typical for a vein. "
+      ],
+      "optionsFR": [
+        "Cette image montre le signal Doppler triphasique d'une artère.",
+        "Il peut s'agir d'une représentation d'une courbe de vitesse d'écoulement avec un reflux diastolique précoce (creux).",
+        "La vitesse maximale du flux systolique est d’environ 80 cm/s.",
+        "Cette courbe de vitesse d'écoulement est typique d'une veine."
+      ],
+      "textDE": "Welche Aussage trifft 𝗻𝗶𝗰𝗵𝘁 zu?",
+      "textEN": "You can see a flow velocity curve of a blood vessel. Which of the following statements is 𝗶𝗻𝗰𝗼𝗿𝗿𝗲𝗰𝘁?",
+      "textFR": "Quelle affirmation n’est pas vraie ?"
+    },
+    {
+      "correctOptionIndex": 1,
+      "id": "\"6\"",
+      "explanationDE": "Pulsatil beschreibt eine arterielle Flusskurve, bei der ein deutlich rhythmisches Signal mit den typischen Phasen der Geschwindigkeit des Herzzyklus erkannt werden kann(Beispiel: Kurve 1). In Kurve 2 hingegen, sieht man einen fast gleichmäßigen, kontinuierlichen Blutfluss, bei dem die Werte nahe an der Nulllinie liegen, das Blut also geringe Geschwindigkeiten annimmt. Das entspricht am ehesten der Flusskurve einer Vene, da diese atemabhängig ist.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "imageUrl": "Quizfragen_Bilder/1_Basics/6.png",
+      "optionsDE": [
+        "Beide Kurven stellen eindeutig ein arterielles Gefäß dar.",
+        "Der pulsatile Character des Doppler Signals mit einer laminaren Flusskurve gibt den Hinweis auf eine Arterie.",
+        "Der „gespiegelte“ pulsatile Fluss in Kurve 2 kann als hochturbulent bezeichnet werden. ",
+        "In Kurve 1 erkennt man ein typisches venöses Doppler Signal des Blutflusses. "
+      ],
+      "optionsEN": [
+        "Both curves clearly show arterial blood vessels.",
+        "A pulsatile character of the Doppler signal with a laminar pattern of the curve is indicative of an artery.",
+        "The „mirrored“ pulsatile flow of curve 2 can be called „highly turbulent“.",
+        "The arterial Doppler signal in curve 1 is typical for venous flow."
+      ],
+      "optionsFR": [
+        "Les deux courbes représentent clairement un vaisseau artériel.",
+        "Le caractère pulsatile du signal Doppler avec une courbe de flux laminaire indique une artère.",
+        "L’écoulement pulsatile « en miroir » dans la courbe 2 peut être décrit comme très turbulent.",
+        "Dans la courbe 1, vous pouvez voir un signal Doppler veineux typique du flux sanguin."
+      ],
+      "textDE": "Welche Aussage trifft zu?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": "Quelle affirmations sont vraie?"
+    },
+    {
+      "correctOptionIndex": 2,
+      "id": "\"7\"",
+      "imageUrl": "Quizfragen_Bilder/1_Basics/7.jpg",
+      "optionsDE": [
+        "Diese Abbildung zeigt ein Gefäß, das  nicht komplett mit roter Farbe gefüllt ist. Daher ist die Messung der Flussgeschwindigkeit inkorrekt ",
+        "Die Blutflussgeschwindigkeit kann mit dieser Abbildung nicht bestimmt werden.",
+        "Es handelt sich um ein Bild der A. carotis communis.",
+        "Arterielle Doppler Signale ohne frühdiastolischen Rückfluss (Dip) sind sind immer pathologisch."
+      ],
+      "optionsEN": [
+        "The lumen of this blood vessel is not entirely filled with red color. Thus, flow velocity can not be measured. ",
+        "Blood flow velocity cannot be determined from this image.",
+        "This image shows a normal finding of the common carotid artery.",
+        "Arterial Doppler signals without early distolic dip are always pathologic. "
+      ],
+      "optionsFR": [
+        "Cette illustration montre un récipient qui n'est pas complètement rempli de peinture rouge. La mesure de la vitesse d’écoulement est donc incorrecte.",
+        "La vitesse du flux sanguin ne peut pas être déterminée avec cette image.",
+        "C'est une photo de l'artère carotide commune.",
+        "Les signaux Doppler artériels sans reflux diastolique précoce (creux) sont toujours pathologiques."
+      ],
+      "textDE": "Welche Aussage trifft zu?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": "Quelle affirmation est vraie?"
+    },
+    null,
+    {
+      "correctOptionIndex": 1,
+      "id": "\"8\"",
+      "explanationDE": "In der unten abgebildeten Flusskurve ist ein typische Dopplersignal der A. Carotis communis zu sehen. Pfeil 1 zeigt auf die peak-systolische Geschwindigkeit. Pfeil 2 und 4 zeigen auf die Diastole. Die Klammer bei 3 zeigt die Systole an. Diese Flusskurve muss deutlich von einer Flusskurve eines anderen arteriellen Gefäßes unterschieden werden.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "imageUrl": "Quizfragen_Bilder/1_Basics/8.png",
+      "optionsDE": [
+        "Pfeil 1 zeigt auf den Gipfel der Flusskurve und somit auf die systolische Peak Geschwindigkeit.",
+        "Pfeil 2 zeigt auf eine Blutsrom-Phase, die man Systole bezeichnet.",
+        "Der mit 3 gekennzeichnete Bereich zeigt die Systole.",
+        "Der mit 4 gekennzeichnete Bereich zeigt auf die Diastole."
+      ],
+      "optionsEN": [
+        "Arrow 1 indicates the peak systolic flow velocity.",
+        "Arrow 2 shows the mean systolic blood flow of the blood vesell. ",
+        "Arrow 3  shows flow velocity in systole.",
+        "Arrow 4 shows flow velocity in diastole."
+      ],
+      "optionsFR": [
+        "La flèche 1 pointe vers le pic de la courbe de débit et donc vers la vitesse maximale systolique.",
+        "La flèche 2 indique une phase du flux sanguin appelée systole.",
+        "La zone marquée 3, montre la systole.",
+        "La zone marquée 4, points de diastole."
+      ],
+      "textDE": "Welche Aussage trifft 𝗻𝗶𝗰𝗵𝘁 zu?",
+      "textEN": "Which of the following statements related to the common carotid artery is 𝗶𝗻𝗰𝗼𝗿𝗿𝗲𝗰𝘁?",
+      "textFR": "Quelle affirmation n`est pas vraie?"
+    }
+  ],
+  "3": [
+    "Normalbefunden von Arterien",
+    {
+      "correctOptionIndex": 2,
+      "explanationDE": "Diese Kurve ist aufgrund ihres pulsatilen Verlaufs eindeutig einer Arterie, nicht einer Vene zuzuordnen. Es handelt sich nicht um die Aorta abdominalis, da diese Seitäste abgeben würde. Solch ein Befund ist typisch für die Arteria carotis communis.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"1\"",
+      "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/1.jpg",
+      "optionsDE": [
+        "Aorta abdominalis",
+        "Vena jugularis interna",
+        "Arteria carotis communis",
+        "Vena cava inferior"
+      ],
+      "optionsEN": [
+        "Abdominal aorta",
+        "Internal jugular vein",
+        "Common carotid artery",
+        "Inferior vena cava"
+      ],
+      "optionsFR": [
+        "Aorte abdominale",
+        "Veine jugulaire interne",
+        "Artère carotide commune",
+        "Veine cave inférieure"
+      ],
+      "textDE": "Welches Gefäß ist hier zu sehen?",
+      "textEN": "Which blood vessel do you recognize? ",
+      "textFR": "Quel vaisseau sanguin peut-on voir ici ?"
+    },
+    {
+      "correctOptionIndex": 0,
+      "id": "\"2\"",
+      "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/2.jpg",
+      "optionsDE": [
+        "Es handelt sich um eine Flusskurve eines arteriellen Gefäßes.",
+        "Es handelt sich um eine Flusskurve eines venösen Gefäßes.",
+        "In diesem Gefäß ist ein turbulenter Blutfluss zu erkennen.",
+        "Die Doppler Kurve zeigt eine negative Flussgeschwindigkeit in der Diastole."
+      ],
+      "optionsEN": [
+        "The image shows a flow verlocity curve of an artery.",
+        "The image shows a flow velocity curve of a vein.",
+        "A turbulent blood flow is present.",
+        "The Doppler wave form shows a negative flow velocity during diastole."
+      ],
+      "optionsFR": [
+        "Il s'agit d'une courbe de débit provenant d'un vaisseau artériel.",
+        "C'est une courbe de débit d'un vaisseau veineux.",
+        "Un flux sanguin turbulent peut être observé dans ce vaisseau.",
+        "La courbe Doppler montre une vitesse d'écoulement négative en diastole."
+      ],
+      "textDE": "Was trifft zu diesem Diagramm zu?",
+      "textEN": "Which statement is correct?",
+      "textFR": "Qu’est-ce qui est vrai dans ce diagramme ?"
+    },
+    {
+      "correctOptionIndex": 3,
+      "explanationDE": "Der steile systolische Anstieg spricht dafür, dass es sich um eine Arterie der Extremitäten handelt. Anatomisch lässt sich außerdem ein so gerader Gefäßverlauf eher nicht bei der A. cerebri media bzw. A. coronaria sinistra finden.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"3\"",
+      "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/3.jpg",
+      "optionsDE": [
+        "A. coronaria sinistra",
+        "V. basilica",
+        "A. cerebri media",
+        "A. radialis"
+      ],
+      "optionsEN": [
+        "Left coronary artery",
+        "Basilical vein",
+        "Median cerebral artery",
+        "Radial artery"
+      ],
+      "optionsFR": [
+        "A. coronaire sinistra",
+        "V. basilique",
+        "A. cérébrale moyenne",
+        "A. radiale"
+      ],
+      "textDE": "Welches Gefäß ist hier zu erkennen?",
+      "textEN": "Which blood vessel do you recognize?",
+      "textFR": "Quel vaisseau sanguin peut-on voir ici? "
+    },
+    {
+      "correctOptionIndex": 2,
+      "explanationDE": "Das triphasische Dopplersignal ist der Normalbefund bei der Dopplersonographie der Arterien. Die Dopplerkurve besteht aus drei verschiedenen Abschnitten: beginnend mit einem steilen Anstieg wird die Systole sichtbar, darauf folgt ein schneller Abfall der Flussgeschwindigkeit mit einer kurzen Rückflusskomponente (je nach Gefäß) zu Beginn der Diastole. Anschließend erneut ein Vorwärtsfluss, in der späten Diastole.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"4\"",
+      "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/4.jpg",
+      "optionsDE": [
+        "Es handelt sich hier nicht um eine Arterie, da Arterien mittels farbcodierter Duplexsonographie automatisch rot dargestellt werden.",
+        "Arterien und Venen sind durch die Farbkodierung des Ultraschallbilds sicher zu unterscheiden.",
+        "Dieses typische arterielle Doppler-Signal dieser Abbildung hilft dabei, die Arterie zu indentifizieren.",
+        "Diese Gefäßabbildung muss eine Vene darstellen, da das abgeleitete Doppler Signal typisch für eine Vene ist. "
+      ],
+      "optionsEN": [
+        "This is not an artery because arteries are automatically depicted in a red color by color-coded Doppler ultrasound.",
+        "Solely color coding the image is sufficient to differenciate between artery and vein.",
+        "The arterial Doppler signal in this image helps to identify the artery.",
+        "This blood vessel must be a vein because its derived Doppler signal is typical for a vein."
+      ],
+      "optionsFR": [
+        "Il ne s’agit pas d’une artère, car les artères sont automatiquement affichées en rouge à l’aide d’une échographie duplex à code couleur.",
+        "Les artères et les veines ne peuvent pas être distinguées à l’aide du mode de code couleur.",
+        "Ce signal Doppler artériel typique dans cette illustration permet d'identifier l'artère.",
+        "Cette image vasculaire doit représenter une veine car le signal Doppler dérivé est typique d'une veine."
+      ],
+      "textDE": "Ist das eine Arterie oder eine Vene? ",
+      "textEN": "Is this an artery or a vein?",
+      "textFR": "Est-ce une artère ou une veine ?"
+    },
+    {
+      "correctOptionIndex": 1,
+      "explanationDE": "Die Kurve zeigt ein triphasisches Doppler-Signal. Knochenstrukturen zeigen sich sonographisch echoreich. Der weiße Pfeil zeigt auf eine solche echoreiche knöcherne Struktur nahe der Arterie.\nEine vollständig verschlossene Arterie hätte keinen Blutfluss mehr - hier ist durch die Farbkodierung jedoch definitiv ein Blutfluss zu erkennen.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"5\"",
+      "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/5.png",
+      "optionsDE": [
+        "Die rot gefärbte Region zeigt eine schwere Gefäßeinengung (weißer Pfeil). ",
+        "Die Abbildung zeigt eine Arterie mit einem triphasischen Doppler Signal nahe einer Knochenstruktur (weißer Pfeil).",
+        "Man sieht eine Vene mit zugehöriger Doppler Kurve, die mit der Atmung variiert.",
+        "Der weiße Pfeil zeigt auf eine vollständig verschlossene Arterie."
+      ],
+      "optionsEN": [
+        "The red colored area shows a very severe vessel lumen narrowing (white arrow).     ",
+        "The image shows an artery displaying a triphasic Doppler signal located close to a bone structure (white arrow).",
+        "This is a vein displaying a typical Doppler wave form varying with respiration.",
+        "This image shows a fully occluded artery (white arrow),"
+      ],
+      "optionsFR": [
+        "A région de couleur rouge montre un rétrécissement vasculaire sévère (flèche blanche).",
+        "La figure montre une artère avec un signal Dopple triphasique à proximité d'une structure osseuse (flèche blanche).",
+        "Vous pouvez voir une veine typique avec une courbe Doppler qui varie en fonction de la réspiration.",
+        "Une artère complètement bouchée (flèche blanche)."
+      ],
+      "textDE": "Welche Aussage trifft zu?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": "Quelle affirmation est vraie ?"
+    },
+    {
+      "correctOptionIndex": 0,
+      "explanationDE": "Sind wie hier zwei Gefäße zu sehen, kann man mithilfe des Dopplersignales und der Blutflussgeschwindigkeitskurve Arterie und Vene unterscheiden. Eine Voraussetzung ist, das Sample Volume in dem Gefäß zu positionieren, das man charakterisieren möchte.\nNeben der A. carotis communis verläuft die V. jugularis interna, nicht die V. jugularis externa. Große Kalkablagerungen sind hier nicht zu sehen. Diese präsentieren sich typischerweise als wandständige, echoreiche -Vorwölbungen-",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"6\"",
+      "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/6.jpg",
+      "optionsDE": [
+        "Arterien können von Venen unterschieden werden, sofern man das Sample Volume des gepulsten Doppler Signal in die Region des Zielgefäßes positioniert.",
+        "Zu sehen ist die A. carotis communis und daneben verläuft die V. jugularis externa.",
+        "Der mittlere Gefäßdurchmesser ist in dieser Abbildung angezeigt.",
+        "Im Lumen der A. carotis communis erkennt man große Kalkablagerungen."
+      ],
+      "optionsEN": [
+        "Arteries can be distinguished from veins by placing the sample volume of pulsed-waved. Doppler signal precisely into the blood vessel region of interest",
+        "You see an image showing the common carotid artery being visualized parallel to internal jugular vein.",
+        "A measurement of the diameter of these blood vessel is shown in this image.",
+        "There are lumen narrowing, atherosclerotic plaques visible of the imaged blood vessels."
+      ],
+      "optionsFR": [
+        "Les artères peuvent être distinguées des veines si le volume d'échantillonnage du signal Doppler pulsé est positionné dans la région du vaisseau cible.",
+        "L'artère carotide commune est visible et la veine jugulaire externe la longe.",
+        "Cette image indique diamètre moyen du vaisseau.",
+        "Dans la lumière de l'aorte. Carotis communis présente d'importants dépôts de calcium."
+      ],
+      "textDE": "Welche Aussage trifft zu?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": "Quelle affirmation est vraie ?"
+    },
+    {
+      "correctOptionIndex": 1,
+      "explanationDE": "Vor einer arteriellen Gefäßengstelle würde man turbulenten Blutfluss (also verschiedene Farben) und hohe Blutflussgeschwindigkeiten erwarten. Wieder zeigt sich ein pulsatiles Signal, weshalb es sich hier nicht um eine Vene handeln kann. Die blaue Farbe hängt von der Position des Schallkopfes während der Untersuchung ab und führt nicht dazu, dass ein Bild nicht interpretierbar ist.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"7\"",
+      "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/7.jpg",
+      "optionsDE": [
+        "Die Abbildung zeigt eine schwere arterielle Gefäßengstelle an. ",
+        "Die gestrichelte Linie im oberen rechten Quandranten der Abbildung zeigt die Messung des Innendurchmessers dieses Gefäßes an.",
+        "Das Doppler Signal der Abbildung zeigt ein venöses Gefäß, welches im Innendurchmesser eingeengt ist.",
+        "Die Abbildung kann nicht interpretiert werden, da eine blaue Farbe im Blutgefäß nicht zu erwarten war."
+      ],
+      "optionsEN": [
+        "A severe narrowing of the blood vessel is shown.",
+        "The dashed line in the upper right quarter of the image show a measurement of the inner diameter of this blood vessel.",
+        "The Doppler signal indicates a venous blood vessel which is  narrowed within its lumen.",
+        "The image can not be interpreted because a blue color with the blood vessel was not to be expected."
+      ],
+      "optionsFR": [
+        "L'illustration montre un sévère rétrécissement artériel.",
+        "La ligne pointillée, dans le quadrant supérieur droit de la figure, indique la mesure du diamètre intérieur de ce vaisseau sanguin.",
+        "Le signal Doppler sur la figure, montre un vaisseau veineux dont le diamètre intérieur est rétréci.",
+        "L'image ne peut pas être interprétée, car une couleur bleue dans le vaisseau sanguin n'était pas attendue."
+      ],
+      "textDE": "Welche Aussage trifft zu? ",
+      "textEN": "Which of the following statements is true?",
+      "textFR": "Quelle affirmation est vraie ?"
+    },
+    {
+      "correctOptionIndex": 3,
+      "explanationDE": "Der periphere Gefäßwiderstand lässt sich anhand der Blutflussgeschwindigkeitskurve ungefähr abschätzen. Sehr steile Kurven gehören zu Gefäßen mit hohem peripherem Gefäßwiderstand, flache Kurven eher zu Gefäßen mit geringerem peripheren Gefäßwiderstand. Hier ist zu erkennen, dass die A. carotis externa eine steilere Kuve, also einen höheren peripheren Gefäßwiderstand, als die A. carotis interna hat. Grund hierfür sind die unterschiedlichen Versorgungsgebiete der Arterien. Mit ca. 50cm/s und 60cm/s sind die PSVs dennoch recht ähnlich.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"8\"",
+      "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/8.png",
+      "optionsDE": [
+        "Der periphere Gefäßwiderstand ist in der  A. carotis interna höher als in der A. carotis externa.",
+        "Die A. carotis interna gibt im Halsbereich Seitäste ab,  wohingegen die A. carotis externa direkt zum Gehirn führt.",
+        "Eine Stenose der A. carotis externa kann zu einem Media-Infarkt führen.",
+        "Beide Gefäße weisen eine ähnlich niedrige systolische-Peak Flussgeschwindigkeiten (PSV=peak systolic velocity) auf."
+      ],
+      "optionsEN": [
+        "The peripheral vascular resistance of the  internal carotid artery is higher than that of the external carotid artery.",
+        "The internal carotid artery gives off sidebranches in the cervical region, while the external carotid artery ascends directly to the brain.",
+        "A stenosis of the external carotid artery can lead to a middle cerebral artery infarction.",
+        "Both blood vessels have similarly low peak systolic velocities (PSV) displayed by their  Doppler flow velocity curves."
+      ],
+      "optionsFR": [
+        "La résistance vasculaire périphérique est plus élevée dans l’artère carotide interne que dans l’artère carotide externe.",
+        "L'artère carotide interne dégage des branches latérales dans la région du cou, tandis que l'artère carotide externe mène directement au cerveau.",
+        "Les deux vaisseaux de l'artère carotide représentés naissent toujours du tronc brachial.",
+        "Les deux vaisseaux ont des vitesses de flux systolique maximales tout aussi faibles. (PSV = vitesse systolique maximale)"
+      ],
+      "textDE": "Welche Aussage trifft zu?",
+      "textEN": "Which of these statements related to the carotid artery is correct?",
+      "textFR": "Quelle affirmation est vraie ?"
+    },
+    {
+      "correctOptionIndex": 0,
+      "id": "\"9\"",
+      "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/9.png",
+      "optionsDE": [
+        "Der grüne Pfeil zeigt auf eine Arterie. Es handelt sich dabei um die A. carotis communis.",
+        "Eine Arterie liegt immer unterhalb einer Vene.",
+        "Der grüne Pfeil zeigt genau auf die V. jugularis interna.",
+        "Das Doppler-Signal zeigt ein turbulente Flussgeschwindigkeit des Blutes."
+      ],
+      "optionsEN": [
+        "The green arrow points at an artery which is called the common carotid artery.",
+        "The artery is always located under the vein.",
+        "The green arrow points exactly to the jugular vein.",
+        "The Doppler signal indicates turbulent blood flow velocity."
+      ],
+      "optionsFR": [
+        "La flèche verte pointe vers une artère. Il s'agit de l'artère carotide commune.",
+        "Une artère se trouve toujours sous une veine.",
+        "La flèche verte pointe exactement vers la veine jugulaire interne.",
+        "Le signal Doppler montre une vitesse d'écoulement turbulente du sang."
+      ],
+      "textDE": "Welche Aussage trifft zu?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": "Quelle affirmation est vraie ?"
+    },
+    {
+      "correctOptionIndex": 2,
+      "explanationDE": "Anhand der Flusskurve kann man bereits abschätzen, dass es sich um ein peripheres Gefäß handeln muss. Zu sehen ist hier also nicht die A. carotis interna, sondern die A. femoralis communis. Ein “Okklusions“-Doppler Signal bedeutet, dass man während der Sonographie von einem Gefäß nur wenige bis stark gedämpfte Signale ableiten kann, beispielsweise aufgrund von Stenosen oder Verengungen. Solch ein Signal ist hier nicht abgebildet.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"10\"",
+      "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/10.jpg",
+      "optionsDE": [
+        "Die Abbildung zeigt einen typischen Befund der A. carotis interna",
+        "Das Bild eines arteriellen Aneuysmas mit seinem typischem Bild der Flussgeschwindigkeit.  ",
+        "Die Abbildung zeigt eine normale A. femoralis communis. ",
+        "Ein thrombotischer Verschluss in der in der A. femoralis communis erkennbar an seinem typischen „Okklusions“-Doppler Signal."
+      ],
+      "optionsEN": [
+        "The image shows a typcial ultrasound Doppler image of the common carotid artery. ",
+        "The image shows an aneurysm with its typical flow velocity pattern.",
+        "The image shows a normal  common femoral artery.  ",
+        "The image shows a thrombotic occlusion of the common femoral artery as indicated by its typical „occlusion“ Doppler signal."
+      ],
+      "optionsFR": [
+        "L'illustration montre une artère carotide interne typique.",
+        "L'image d'un anévrisme artériel avec son image typique de vitesse d'écoulement.",
+        "L'image montre une artère fémorale commune normale.",
+        "Une occlusion thrombotique dans l'artère fémorale commune peut être reconnue par son signal Doppler typique d'< occlusion >."
+      ],
+      "textDE": "Was ist hier zu sehen?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": "Quelle affirmation est correcte ?"
+    },
+    {
+      "correctOptionIndex": 3,
+      "explanationDE": "Die A. carotis communis und die A. vertebralis versorgen beide das Gehirn mit sauerstoffreichem Blut, das vom Herzen kommt. Der Blutfluss findet also nicht gegenläufig sondern in die gleiche Richtung statt. Beim „Subclavian Steel Syndrom“ verlaufen die Blutflüsse der beiden Gefäße gegenläufig, allerdings ist der Befund dann pathologisch.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"11\"",
+      "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/11.png",
+      "optionsDE": [
+        "Pfeil 1 zeigt auf einen Wirbelkörper.",
+        "Pfeil 2 zeigt auf das Lumen der A. vertebralis.",
+        "Die gestrichelte weiße Linie zeigt die Messung eines Gefäßlumendurchmessers an.",
+        "Der Blutfluss in der A. vertebralis verläuft gegenläufig zum Blutfluss der A. carotis communis."
+      ],
+      "optionsEN": [
+        "Arrow 1 points to a vertebral bone.",
+        "Arrow 2 points the lumen of the vertebral artery.",
+        "The white dashed line through the vessel lumen indicates a  measurement of the diameter.",
+        "The blood flow in the veterbral artery is reversed relative to the blood flow direction of the common carotid artery."
+      ],
+      "optionsFR": [
+        "La flèche 1 pointe vers un corps vertébral.",
+        "La flèche 2 pointe vers la lumière de l'artère vertébrale.",
+        "La ligne blanche pointillée indique la mesure du diamètre de la lumière d'un vaisseau.",
+        "Le flux sanguin dans l’artère vertébrale n’est pas dirigé vers le cerveau et circule dans le sens opposé à celui de l’artère carotide commune."
+      ],
+      "textDE": "Welche Aussage zur Arteria vertebralis trifft 𝗻𝗶𝗰𝗵𝘁 zu?",
+      "textEN": "You see an ultrasound image of the vertebral artery. Which of the following statements is 𝗶𝗻𝗰𝗼𝗿𝗿𝗲𝗰𝘁?",
+      "textFR": "Quelle affirmation concernant l’artère vertébrale n’est pas juste ?"
+    },
+    {
+      "correctOptionIndex": 0,
+      "id": "\"12\"",
+      "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/12.jpg",
+      "optionsDE": [
+        "Die duplexsonographische Aufnahme zeigt den Normalbefund einer A. tibialis.",
+        "Die Flussgeschwindigkeit in diesem arteriellen Abschnitt ist zu niedrig für eine A. tibialis.",
+        "Die Farbkodierung zeigt eine massive Gefäßeinengung. ",
+        "Die gezeigte Flussgeschwindigkeitskurve ist typisch für ein aortales Flussprofil."
+      ],
+      "optionsEN": [
+        "The image shows a normal finding of the tibial artery",
+        "The indicated value of peak systolic flow velocity (PSV) of 20 cm/s is too low for a tibial artery.",
+        "The color coding indicates a massive lumen narrowing of the vessel.",
+        "The flow velocity curve shown is typical for an aortic flow pattern."
+      ],
+      "optionsFR": [
+        "L'image échographique duplex montre les résultats normaux d'une artère tibiale.",
+        "La vitesse d'écoulement dans cette section artérielle est trop faible pour une artère tibiale.",
+        "Le code de couleur montre une constriction vasculaire massive.",
+        "La courbe de vitesse d’écoulement présentée est typique d’un profil d’écoulement aortique."
+      ],
+      "textDE": "Welche Aussage trifft zu?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": "Quelle affirmation est vraie ?"
+    }
+  ],
+  "4": [
+    "Normalbefunden von Venen",
+    {
+      "correctOptionIndex": 0,
+      "explanationDE": "Venen haben eine elastischeren Wandaufbau als Arterien und sind oft von der Haut ausgehend, d.h. von außen komprimierbar. Lässt sich das Lumen der Vene durch Kompression mit dem Schallkopf von außen komplett verschließen (B), so ist diese wahrscheinlich nicht thrombotisch verändert. Lässt die Vene sich jedoch nicht komprimieren, kann ein Thrombus im Gefäßlumen vorliegen, da dieser die Vene starr macht und das Lumen füllt, wodurch sie nicht mehr komprimierbar ist.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"1\"",
+      "imageUrl": "/Quizfragen_Bilder/3_Normalbefunden_von_Venen/1.png",
+      "optionsDE": [
+        "Zu sehen ist im oberen Bild (A) eine offene Vene.",
+        "Die Befunde beider Bilder lassen auf einen thrombotischen Verschluss  der Vene schließen.",
+        "Venen sind beim gesunden Menschen nicht von außen komprimierbar.",
+        "Während einer Kompression (Bild B) kann man nicht erkennen, ob die Vene offen oder verstopft ist."
+      ],
+      "optionsEN": [
+        "Image A shows the open lumen of the vein.",
+        "The findings of both images suggest a thrombotic occlusion of the vein.",
+        "Veins cannot be compressed externally.",
+        "During compression (image B), it is not possible to determine whether the vein is open or clogged."
+      ],
+      "optionsFR": [
+        "Dans l'image du haut (A), vous pouvez voir une veine ouverte sans compression par la sonde.",
+        "L´image ci-dessus montre clairement une occlusion thrombotique de la veine.",
+        "Chez les personnes en bonne santé, les veines ne peuvent pas être comprimées de l'extérieur.",
+        "Dans l'image ci-dessous (B), pendant la compression, vous ne pouvez pas voir si la veine est ouverte ou bloquée."
+      ],
+      "textDE": "Sie sehen das B-Bild des Querschnitts der V. saphena magna im Normalzustand (A) und unter Kompression (B). Welche Aussage trifft zu?",
+      "textEN": "You see a B-mode image of a cross- section of the great saphenous vein not being compressed (A) and being compressed (B). Which of the following statements is correct?",
+      "textFR": "Vous pouvez voir l'image B de la coupe transversale de la veine saphène dans son état normal (A) et en dessous comprimée avec la sonde échographique (B). Quelle affirmation est vraie ?"
+    },
+    {
+      "correctOptionIndex": 3,
+      "id": "\"2\"",
+      "imageUrl": "/Quizfragen_Bilder/3_Normalbefunden_von_Venen/2.jpg",
+      "optionsDE": [
+        "Aufgrund des geraden, oberflächlichen Gefäßverlaufes.",
+        "Venen sind mit farbkodierter Duplexsonographie leichter zu erkennen als Arterien.",
+        "Gefäße mit großem Diameter sind schwer auseinander zu halten. Gefäße mit kleinem Durchmesser sind dagegen leicht zu finden, weil sie oberflächlich nahe an der Haut liegen.",
+        "Eine Vene lässt sich durch ein variables, atemabhängiges Dopplersignal mit charakteristischem Kurvenverlauf erkennen"
+      ],
+      "optionsEN": [
+        "Only veins typically have a straight, superficial course. ",
+        "Veins are easier to detect than arteries by vascular ultrasound.",
+        "Large diameter blood vessels are difficult to distinguish. Small  arteries and veins are easy to find because they are located close to the skin.",
+        "A vein shows a variable dopple flow velocity curve which can be modifed by respiration."
+      ],
+      "optionsFR": [
+        "En raison du trajet superficiel rectiligne des vaisseaux sanguins.",
+        "Les veines sont plus faciles à identifier que les artères lors d'une échographie duplex à code couleur.",
+        "Les vaisseaux de grand diamètre sont difficiles à distinguer. En revanche, les vaisseaux de petit diamètre sont faciles à trouver, car ils sont superficiellement proches de la peau.",
+        "Une veine peut être identifiée par un signal Doppler variable dépendant de la respiration avec une courbe caractéristique."
+      ],
+      "textDE": "Wie können Venen mittels farbkodierter Duplexsonographie erkannt werden?",
+      "textEN": "How can veins be identified in duplex sonography?",
+      "textFR": "Pourquoi est-ce une veine ? "
+    },
+    {
+      "correctOptionIndex": 1,
+      "explanationDE": "Anhand des Farbsignals alleine lässt sich keine Aussage darüber treffen, ob es sich um arterielle oder venöse Gefä ße handelt. Bild A und B zeigen jedoch einen ähnlichen, für die Crosse typischen Gefäßverlauf, was darauf hindeutet, dass beide Bilder venöse Gefäße zeigen. Bei venösen Gefäßmündungen wie hier kann es zu leichten Verwirbelungen beim Zusammenfließen des Blutes kommen – dementsprechend zeigen die Bilder Normalbefunde und keine Pathologie.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"3\"",
+      "imageUrl": "/Quizfragen_Bilder/3_Normalbefunden_von_Venen/3.png",
+      "optionsDE": [
+        "Die Mündung der oberflächlichen V. saphena magna in das tiefe Venensystem der V. femoralis wird als Crosse (Venenstern) bezeichnet.",
+        "Auf dem linken Bild (A) sieht man venöses Blut und auf dem rechten Bild (B) arterielles Blut.",
+        "Die verschiedenen Farben innerhalb der abgebildeten Gefäße deuten auf eine  normale, nicht-turbulente Strömungs-bzw. Flussbewegung hin.",
+        "Auf den Bildern A und B sieht man einen pathologischen Befund welcher zeitnah therapiert werden sollte."
+      ],
+      "optionsEN": [
+        "Superficial saphenous vene sidebranches originating from the deep common femoral vein are called „venous star“.",
+        "The left image (A) shows venous blood. The right image (B) show arterial blood.",
+        "Different colors within the vessels indicate a normal, non-turbulent blood flow.",
+        "Both images A and B show a pathological finding which should be treated quickly."
+      ],
+      "optionsFR": [
+        "La connexion de la veine saphène superficielle dans le réseau veineux profond de la veine fémorale est appelée crosse (étoile veineuse).",
+        "L'image de gauche (A) montre du sang veineux et l'image de droite montre du sang artériel.",
+        "Les différentes couleurs (bleu/rouge) à l'intérieur des vaisseaux représentés, indiquent un mouvement d écoulement sanguin normale et non turbulent.",
+        "L'image A et B sont normales par la veine pendant la respiration."
+      ],
+      "textDE": "Welche Aussage trifft 𝗻𝗶𝗰𝗵𝘁 zu?",
+      "textEN": "Which of the following statements is 𝗶𝗻𝗰𝗼𝗿𝗿𝗲𝗰𝘁?",
+      "textFR": "Quelle affirmation n’est pas vraie ?"
+    },
+    {
+      "correctOptionIndex": 3,
+      "explanationDE": "Arterien haben eine dickere Gefäßwand als Venen, was sich sonographisch darstellen lässt. Das im Bild A rechte Gefäß zeigt eine dickere Wand als das linke. Außerdem zeigen Venen in der Nachbarschaft von Arterien oft ein größeres Lumen, welches oft nicht ganz rund ist und sich atemabhängig verändern kann. Wäre die Vene durch einen Thrombus verstopft, ließe sie sich nicht vollständig komprimieren. In Bild B wurde die Vene durch den Untersucher mit dem Schallkopf vollständig\nA A\nkomprimiert. Bild A und B zeigen somit den Normalbefund einer sogenannten -Kompressionssonographie-.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"4\"",
+      "imageUrl": "/Quizfragen_Bilder/3_Normalbefunden_von_Venen/4.png",
+      "optionsDE": [
+        "Die kompressionssonographische Aufnahme zeigt ein pathologisches Ergebnis.",
+        "Das Gefäß mit dem größeren Lumen ist eine Arterie.",
+        "Eine Verstopfung der Vene durch einen Thrombus lässt sich sonographisch nicht erkennen.",
+        "Man kann Venen und Arterien anhand ihrer Wanddicke unterscheiden."
+      ],
+      "optionsEN": [
+        "The compression sonography image shows a pathological finding.",
+        "The vessel displaying the larger diameter is an artery.",
+        "A thrombotic occlusion of the vein cannot be identified through sonography.",
+        "Arteries and veins can be distinguished by wall thickness."
+      ],
+      "optionsFR": [
+        "L’image du haut montre une compression vasculaire de l’extérieur avec des résultats pathologiques.",
+        "Les vaisseaux avec une lumière vasculaire plus grande sont appelés artères.",
+        "Vous ne pouvez pas distinguer les veines des artères en fonction de leur épaisseur de paroi.",
+        "La compression de la veine dans le lit vasculaire artérielle et veineuse, ne montre aucun signe pathologique dans le sens d'un caillot sanguin ou d'un blocage de la veine."
+      ],
+      "textDE": "Sie sehen ein normales B-Bild (A) und das B-Bild einer Kompressionssonographie (B) Welche Aussage trifft zu?",
+      "textEN": "This is normal ultrasound B-mode image (A) and its comression sonography view (B). Which of the following statements is correct?",
+      "textFR": "Vous voyez une image B normale (A) et l'image B d'une échographie de compression (B). Quelle affirmation est correcte ?"
+    },
+    {
+      "correctOptionIndex": 2,
+      "explanationDE": "Venenklappen lassen sich sonographisch nicht immer darstellen. Kann man sie aber darstellen, geben sie auch ohne Doppler Signal sonographisch Hinweis auf eine Vene. Sie sind also ein wichtiges Unterscheidungsmerkmal zwischen Venen und Arterien.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"5\"",
+      "imageUrl": "/Quizfragen_Bilder/3_Normalbefunden_von_Venen/5.png",
+      "optionsDE": [
+        "Die Abbildung zeigt zwei nebeneinander liegende Venen.",
+        "Der weiße Pfeil zeigt auf eine Engstelle.",
+        "Der weiße Pfeil zeigt auf eine Venenklappe.",
+        "Ohne farbkodierte Duplex-Sonographie mit Doppler Funktion ist diese Abbildung nicht zu interpretieren."
+      ],
+      "optionsEN": [
+        "The image shows two veins side by side.",
+        "The white arrow points to a narrowing of the vessel.",
+        "The white arrow points to a venous valve. ",
+        "The image cannot be interpreted without the color-coded Dopper flow velocity information."
+      ],
+      "optionsFR": [
+        "L’illustration montre deux veines côte à côte.",
+        "La flèche blanche indique obstruction vasculaire.",
+        "Sur la photo, la flèche blanche pointe vers une valvule veineuse.",
+        "Sans échographie duplex à code couleur avec fonction Doppler, cette image est difficile à interpréter. "
+      ],
+      "textDE": "Welche Aussage trifft zu?",
+      "textEN": "Which of the following statements is correct? ",
+      "textFR": "Quelle affirmation est vraie ? "
+    }
+  ],
+  "5": [
+    "Pathologien von Arterien",
+    {
+      "correctOptionIndex": 3,
+      "explanationDE": "Ein Aneurysma ist eine Aufweitung der Wand eines Gefäßes. Hier handelt es sich um ein Aneurysma sacciforme (sack- oder ballonförmige Aufweitung). Eine Stenose (Engstelle) ist bei echoleerem Lumen des Gefäßes unwahrscheinlich. Im Bereich des Aneurysmas wirkt das Lumen echoreicher, was auf eine veränderte und z.T. verlangsamte Blutzirkulation durch die Visualisierung von korpuskulären Blutanteilen hindeutet.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"1\"",
+      "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/1.jpg",
+      "optionsDE": [
+        "Eine Stenose an der Bifurkation der A. carotis. ",
+        "Eine Stenose der A. femoralis communis.",
+        "Eine Fistel zwischen Arterie und Vene.",
+        "Ein Aneurysmasack ausgehend von der A femoralis communis."
+      ],
+      "optionsEN": [
+        "A stenosis of the common carotid artery bifurcation.",
+        "A stenosis of the common femoral artery.",
+        "A fistula between an artery and a vein.",
+        "An aneurysmal sack originating from the common femoral artery."
+      ],
+      "optionsFR": [
+        "Une sténose (point étroit) de la bifurcation de l’artère carotide.",
+        "Une sténose de l'artère fémorale commune.",
+        "Une fistule entre une artère et une veine.",
+        "Un sac anévrismal provenant de l'artère fémorale commune."
+      ],
+      "textDE": "Welches Krankheitsbild ist hier gezeigt?",
+      "textEN": "Which vascular pathology is shown? ",
+      "textFR": "Quel tableau clinique est présenté ici ?"
+    },
+    {
+      "correctOptionIndex": 2,
+      "explanationDE": "Pfeil 2 zeigt auf die Bifurcatio carotis (Aufzweigung der A. carotis). Pfeil 3 zeigt das typische Bild einer arteriosklerotischen Plaque: Durch das sehr echoreiche Material(Gefäßkalk) entsteht eine dorsale Schallauslöschung, welche als Schallschatten sichtbar ist. Plaques treten häufig in Blutgefäßabschnitten auf, an denen Scherkräfte und Strömungsänderungen auf die Gefäßwand wirken, wie bei Verzweigungen (wie im gezeigten Beispiel) oder Gefäßkrümmungen.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"2\"",
+      "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/2.png",
+      "optionsDE": [
+        "Pfeil 1 zeigt auf eine arteriovenöse Fistel.",
+        "Pfeil 2 zeigt auf eine pathologische Struktur innerhalb der Arterie.  ",
+        "Pfeil 3 zeigt auf einen kalzifizierten arteriosklerotischen Plaque mit einem Schallschatten (weißer Pfeil).",
+        "Pfeil 2 und Pfeil 3 zeigen auf pathologische Veränderungen im Gefäß. "
+      ],
+      "optionsEN": [
+        "Arrow 1 points to an arterialvenous fistula.",
+        "Arrow 2 points to the tip of a pathological structure within an artery.",
+        "Arrow 3 indicates a calcified atherosclerotic plaque associated with an acoustic shadow (white arrow).",
+        "Arrow 2 and arrow 3 both point to pathologic findings in the vessel."
+      ],
+      "optionsFR": [
+        "La flèche 1 indique une fistule artérioveineuse.",
+        "La flèche 2 indique une structure pathologique au sein de l'artère.",
+        "La flèche 3 indique une plaque athéroscléreuse calcifiée au niveau de la bifurcation carotidienne avec une plaque, avec une ombre acoustique (flèche blanche).",
+        "Les flèches 2 et 3 indiquent des changements pathologiques dans le vaisseau."
+      ],
+      "textDE": "Gezeigt ist das B-Bild einer Karotisbifurkation. Welche der folgenden Aussagen trifft zu?",
+      "textEN": "Which of the following statements is correct? ",
+      "textFR": "Laquelle des affirmations suivantes est vraie ?"
+    },
+    {
+      "correctOptionIndex": 2,
+      "explanationDE": "Arteriosklerotische Plaques werden, je nach Symptomatik, erst bei einem Stenosegrad von >50% behandelt. Ein Notfall läge beispielsweise vor, wenn Schlaganfallsymptome bestehen, die sich auf eine Plaqueruptur zurückführen lassen. Bei asymptomatischen Patient*innen liegt hier aber kein Notfall vor. Geringe arteriosklerotische Plaques sind keine relevanten Engstellen und werden weder kathetertechnisch noch operativ behandelt.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"3\"",
+      "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/3.jpg",
+      "optionsDE": [
+        "Dieser Befund stellt bei asymptomatischen PatientInnen einen Notfall dar.",
+        "Dieses Ultraschallbild zeigt eine pathologische Gefäßdissektion.",
+        "Man sieht die Aufzweigung der A. carotis mit einem kleinen kalzifizierten, arteriosklerotischen Plaque.",
+        "Der schwarze Inhalt des Gefäßlumens der A. carotis zeigt einen Thrombus."
+      ],
+      "optionsEN": [
+        "This finding constitutes a medical emergency, even in asymptomatic patients.",
+        "The ultrasound image shows a pathologic vessel dissection.",
+        "The image shows the common carotid artery bifurcation presenting a small calcified atherosclerotic plaque.",
+        "The black inner contents of the common carotid artery lumen indicates a blood clot (thrombosis)."
+      ],
+      "optionsFR": [
+        "Cette image échographique montre un résultat clinique absolument fatal.",
+        "Cette image échographique montre une dissection vasculaire pathologique en 2 parties.",
+        "carotide avec une petite plaque calcifiée et artérioscléreuse.",
+        "Le contenu noir de la lumière vasculaire de l'artère carotide indique un caillot sanguin (thrombose)."
+      ],
+      "textDE": "Welche der folgenden Aussagen ist richtig?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": "Lesquelles des affirmations suivantes sont correctes ?"
+    },
+    {
+      "correctOptionIndex": 1,
+      "explanationDE": "Bei gesunden Erwachsenen beträgt der Durchmesser der Aorta ca. 2,5-3,5cm. Der hier gezeigte Befund mit einem Durchmesser von maximal 4,21 cm stellt ein Bauchaortenaneurysma dar. Operativ behandelt wird ein Bauchaortenaneurysma in der Regel ab einem Durchmesser von 5,0 cm bei Frauen oder5,5 cm bei Männern oder einem sehr raschen Wachstum des Aneurysmas. Der weiße Pfeil deutet auf einen wandständigen Thrombus (geronnenes Blut) hin.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"4\"",
+      "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/4.png",
+      "optionsDE": [
+        "Dieser Befund wird immer operativ behandelt.",
+        "Eine schwerwiegende Komplikation dieses Befundes kann eine Ruptur der Aorta sein.",
+        "Der schwarze, sichelförmige Bereich (weißer Pfeil) im Gefäßlumen ist ein kalzifizierter ateriosklerotischer Plaque.",
+        "Beim gesunden Erwachsenen hat die Aorta einen Durchmesser von 6 cm."
+      ],
+      "optionsEN": [
+        "This finding will always be operated on. ",
+        "A serious complication of this finding may be a rupture of the aorta.",
+        "The black, crescent-shaped area (white arrow) within the vessel lumen is a calcified atherosclerotic plaque.",
+        "An aorta in healthy adults usually has a diameter of 6 cm."
+      ],
+      "optionsFR": [
+        "Cette constatation est toujours traitée chirurgicalement.",
+        "Une complication grave de cette constatation peut être une rupture aortique.",
+        "La zone noire en forme de croissant (flèche blanche) dans la lumière du vaisseau n’est certainement pas un caillot sanguin.",
+        "Chez un adulte en bonne santé, l’aorte a un diamètre de 6 cm."
+      ],
+      "textDE": "Welche der folgenden Aussagen trifft zu?",
+      "textEN": "Which of the following statements is correct? ",
+      "textFR": "Laquelle des affirmations suivantes est vraie ?"
+    },
+    {
+      "correctOptionIndex": 1,
+      "id": "\"5\"",
+      "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/5.png",
+      "optionsDE": [
+        "Es imponiert ein vollständiger Gefäßverschluss",
+        "Der grüne Pfeil zeigt auf einen semizirkulären wandständige Plaque.",
+        "Es handelt sich um einen Normalbefund.",
+        "Der grüne Pfeil deutet auf einen Aneurysmasack der A. carotis communis."
+      ],
+      "optionsEN": [
+        "The common carotid artery is completely occluded.",
+        "The common carotid artery is narrowed by a semicircular arteriosclerotic plaque (green arrow).",
+        "This image shows a normal finding of the common carotid artery.",
+        "This image shows an aneurysmal formation of the common carotid artery."
+      ],
+      "optionsFR": [
+        "Une occlusion vasculaire complète.",
+        "La flèche verte indique une plaque murale semi-circulaire dans un segment de l'artère carotide.",
+        "Une constatation normale.",
+        "Un anévrisme de l'artère carotide commune."
+      ],
+      "textDE": "Man sieht den sonographischen Querschnitt (A) und den Längschnitt (B) der A. carotis communis. Welche der folgenden Aussagen ist richtig?",
+      "textEN": "This ultrasound image shows a common carotid artery in a crosssectional view (A) and a longitudinal view (B). Which of the following statements is correct?",
+      "textFR": "La coupe échographique transversale (A) et la coupe longitudinale (B) de l'artère carotide sont ici représentées. Laquelle des affirmations suivantes est correcte ?"
+    },
+    {
+      "correctOptionIndex": 2,
+      "explanationDE": "Für reproduzierbare Messungen sollten die Diameter so gemessen werden, das die Messungen orthogonal zueinander und am breitesten Durchmesser liegen.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"6\"",
+      "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/6.jpg",
+      "optionsDE": [
+        "Dieser Befund erfordert eine zusätzliche Anwendung der farbkodierten Duplex-Sonographie.",
+        "Patient*innen mit einem solchen Befund können komplett asymptomatisch sein.",
+        "Diese Abbildung zeigt höchstwahrscheinlich eine vollständig gefüllte Harnblase und erfordert keine weitere Abklärung.",
+        "Die Messungen der gestrichelten Linie geben die Diameter des Organs nicht exakt wieder."
+      ],
+      "optionsEN": [
+        "This B-mode ultrasound image requires further examination by applying color-coded Doppler ultrasound.",
+        "Patients with this finding can be entirely asymptomatic.",
+        "This image most likely shows a completely filled urinary bladder and does not require investigation.",
+        "The measurements indicated by the dashed lines do not accurately represent the diameter of the organ."
+      ],
+      "optionsFR": [
+        "Cette constatation nécessite l’utilisation supplémentaire d’une échographie duplex à code couleur.",
+        "Les patients présentant un tel symptôme peuvent être complètement asymptomatiques.",
+        "Cette image montre très probablement une vessie complètement pleine et ne nécessite pas d’évaluation supplémentaire.",
+        "Les mesures de la ligne pointillée sont complètement incorrectes et ne doivent pas être discutées."
+      ],
+      "textDE": "Welche Aussage trifft 𝗻𝗶𝗰𝗵𝘁 zu?",
+      "textEN": "Which of the following statements is 𝗶𝗻𝗰𝗼𝗿𝗿𝗲𝗰𝘁?",
+      "textFR": "Quelle affirmation n’est pas correcte ?"
+    },
+    {
+      "correctOptionIndex": 1,
+      "explanationDE": "Ein -falsches- oder iatrogen bedingtes Aneurysma (Aneurysma spurium) ist keine primär pathologische Gefäßaufweitung einer Arterie, sondern eine eingriffsbedingte, blutgefüllte Aussackung innerhalb der Gefäßwand, die mit dem Lumen der Arterie in Verbindung steht. Der Stichkanal, z.B. nach einer Gefäßpunktion, bildet dabei den Hals des falschen Aneurysmas. Der Hals lässt sich auch durch eine charakteristische Dopplerkurve nachweisen (hier nicht dargestellt). Eine Bakerzyste zeigt normalerweise kein Farbsignal oder einen dopplersonographischen Flussnachweis, da es sich hierbei um eine nicht vaskularisierte Zyste handelt.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"7\"",
+      "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/7.png",
+      "optionsDE": [
+        "Ein Thrombus (Blutgerinnsel, Clot) in einem Gefäß.",
+        "Ein falsches Aneurysma der A. femoralis  mit Stichkanal nach arterieller Punktion. ",
+        "Ein wahres Aneurysma eines neugeborenen Kindes.",
+        "Bei diesem Ultraschallbefund handelt sich um eine Bakerzyste in der Region der Kniekehle."
+      ],
+      "optionsEN": [
+        "A Blood clot (thrombus) within a vessel.",
+        "A false aneurysm after arterial puncture originating from the femoral artery.",
+        "A true aneurysm in a newborn child.",
+        "The ultrasound image shows a Baker‘s cyst located in the popliteal fossa."
+      ],
+      "optionsFR": [
+        "Caillot de sang (thrombus) dans un vaisseau.",
+        "Un faux anévrisme de l'artère fémorale avec canal de ponction après ponction artérielle ",
+        "Un véritable anévrisme d'un nouveau-né.",
+        "Cette échographie montre un kyste de Baker dans la région de la fosse poplitée."
+      ],
+      "textDE": "Welches vaskuläre Krankheitsbild ist hier zu sehen?",
+      "textEN": "Which vascular pathology do you recognize?",
+      "textFR": "Quelle maladie vasculaire est observée ici ?"
+    },
+    {
+      "correctOptionIndex": 3,
+      "explanationDE": "Typisch für den Farbjet eines Aneurysma spurium ist der Pendelfluss: Dieser entsteht durch unterschiedliche Druckverhältnisse. Während in der Systole das Blut in das Aneurysma hineingepresst wird (rotes Farbsignal), fließt es in der Diastole zurück in das Gefäß (blaues Farbsignal).",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"8\"",
+      "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/8.gif",
+      "optionsDE": [
+        "Das Video zeigt einen normalen Blutstrom von einer Arterie in den Seitenast einer Arterie.",
+        "Man erkennt eine arteriovenöse Malformation wegen der unterschiedlichen Blutströme.",
+        "Man erkennt auf dem Video eine Fistel von einer Arterie zu einer Vene.",
+        "Zu sehen ist ein falsches, teilthrombosiertes Aneurysma spurium mit gut darstellbarem Farbjet aus der Arterie in den Aneurysmasack."
+      ],
+      "optionsEN": [
+        "This video shows a normal blood stream into  an arterial side branch.",
+        "An arteriovenous malfomation can be identified by the divergent flow directions of arterial and venous blood.",
+        "This is  an arteriovenous fistula.",
+        "This video shows a false aneuysm with a visible arterial jet into a partially thrombosed aneurysmal sac."
+      ],
+      "optionsFR": [
+        "La vidéo montre un flux sanguin normal dans la branche latérale d’une artère.",
+        "Une malformation artérioveineuse peut être reconnue grâce aux différents flux sanguins.",
+        "La vidéo montre une fistule allant de l'artère à la veine.",
+        "Faux anévrisme, partiellement thrombosé avec jet de couleur clairement visible (flèche blanche) de l'artère dans le sac anévrismal."
+      ],
+      "textDE": "Welche Aussage trifft  zu?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": "Quelle affirmation est correcte ?"
+    },
+    {
+      "correctOptionIndex": 1,
+      "id": "\"9\"",
+      "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/9.png",
+      "optionsDE": [
+        "Es handelt sich um einen Normalbefund.",
+        "Es handelt um ein B-Bild mit auffälliger, echoreicher Struktur innerhalb des Gefäßlumens (weißer Pfeil).",
+        "Eine Farbkodierung während der Real-Time Untersuchung wäre nicht hilfreich gewesen.",
+        "Ein Doppler-Signal wird in dieser Abbildung gezeigt."
+      ],
+      "optionsEN": [
+        "This is an ultrasound image of a vessel which shows no pathologies.",
+        "An intraluminal echogenic structure is visible within the lumen of the vessel (white arrow).",
+        "A color coded image analysis would not have been helpful in establishing the diagnosis",
+        "You can see an image showing a Doppler effect."
+      ],
+      "optionsFR": [
+        "Il s’agit d’une constatation normale.",
+        "Il s'agit d'une image en mode B avec une structure hyperéchogène visible dans la lumière du vaisseau (flèche blanche).",
+        "Un codage couleur lors de l’examen en temps réel n’aurait pas été utile.",
+        "Un signal Doppler est représenté sur cette figure."
+      ],
+      "textDE": " Welche Aussage trifft zu?",
+      "textEN": " Wich of the following statements is correct?",
+      "textFR": "Quelle affirmation est correcte ?"
+    },
+    {
+      "correctOptionIndex": 2,
+      "explanationDE": "Eine arteriovenöse Fistel beschreibt eine pathologische Verbindung zwischen einer Arterie und Vene (2 verschiedene Gefäße). Hier ist jedoch nur ein Gefäß, die A. radialis, zu sehen. Der Pfeil zeigt auf eine intraluminale Struktur, die sich mittels Ultraschall nicht eindeutig identifizieren lässt. Diese ist entweder ein -intimaler Flap- oder eine Gefäßdissektion (Einriss einer Gefäßwandschicht) .",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"10\"",
+      "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/10.png",
+      "optionsDE": [
+        "Der Pfeil zeigt auf eine arteriovenöse Fistel.",
+        "Das Gefäßlumen wird vollständig eingeengt durch die mit dem Pfeil markierte Struktur.",
+        "Der Pfeil zeigt auf eine Struktur im Gefäßlumen, die ein Plaque, ein intimaler Flap oder eine Gefäßdissektion sein könnte.",
+        "Dieses B-Bild eignet sich sehr gut zur Beurteilung der Geschwindigkeit des Blutstroms."
+      ],
+      "optionsEN": [
+        "The green arrow indicates an arteriovenous fistula.",
+        "There is complete vascular occlusion resulting from the structure indicated by the green arrow.",
+        "The arrow indicates an intraluminal structure which could be a plaque, an intimal flap or a vessel dissection.",
+        "This image is perfectly suitable to evaluate the velocity of the blood stream."
+      ],
+      "optionsFR": [
+        "La flèche indique une fistule artérioveineuse.",
+        "La lumière du vaisseau est complètement rétrécie par la structure indiquée par la flèche.",
+        "La flèche pointe vers une structure dans la lumière du vaisseau, qui pourrait être une plaque, un lambeau intimal ou une dissection vasculaire.",
+        "Cette image en mode B est très approprier pour l’évaluation du flux sanguin."
+      ],
+      "textDE": "Zu sehen ist eine Aufnahme der A. radialis. Welche Aussage trifft zu?",
+      "textEN": "Which of the following statements related to this ultrasound image of the radial artery is correct?",
+      "textFR": "L'image montrée est celle de l'artère radiale. Quelle affirmation est correcte ?"
+    },
+    {
+      "correctOptionIndex": 3,
+      "explanationDE": "Der -Aliasing-Effekt- ist ein Artefakt der Doppler-Sonographie. Hierbei werden in der Farbdarstellung Blutflussgeschwindigkeiten oft fälschlicherweise zu hoch oder in die andere Richtung dargestellt. Dies kann ein Zeichen für zu hohe oder turbulente Blutströme sein. Die hier gezeigte zugehörige Dopplerkurve zeigt jedoch einen Normalbefund.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"11\"",
+      "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/11.jpg",
+      "optionsDE": [
+        "Anhand der Flusskurve lässt sich  eindeutig erkennen, um welche Gefäßregion (z.B. Arm oder Bein) es sich handelt.",
+        "Die gelbe, grüne und blaue Färbung des farbkodierten Gefäßbildes zeigen einen pathologischen, hoch turbulenten Fluss an.",
+        "Diese Aufnahme entsteht routinemäßig bei einer Venen-Diagnostik.",
+        "Obwohl „Aliasing“ Farbveränderungen in der Farbkodierung des Gefäßes zu sehen sind, zeigt das gepulste Doppler Signal einen Normalbefund der Arterie an."
+      ],
+      "optionsEN": [
+        "From this image, it can easily be determined which region is shown (upper limb, lower limb).",
+        "The yellow, green and blue color changes within the colour coded Doppler image indicate a pathologic, highly turbulent blood flow.",
+        "This image is typical of a venous sonography.",
+        "Although „aliasing“ color changes are visible within the vessel lumen, a normal artery can be diagnosed by evaluating the flow velocity spectrum derived from the Doppler signal."
+      ],
+      "optionsFR": [
+        "La courbe de flux montre clairement quelle région vasculaire (par exemple, le bras ou la jambe) est impliquée.",
+        "La coloration jaune, verte et bleue de l'image du vaisseau à code couleur indique un écoulement pathologique très turbulent.",
+        "Cette image est prise systématiquement lors du diagnostic veineux.",
+        "Bien que des changements de couleur d'aliasing puissent être observés dans le code couleur du vaisseau, le signal Doppler pulsé indique une observation normale de l'artère."
+      ],
+      "textDE": "Welche Aussage trifft  zu?",
+      "textEN": "Which of the following statements regarding an arterial vessel in the leg is correct?",
+      "textFR": "Quelle affirmation est correcte ?"
+    },
+    {
+      "correctOptionIndex": 0,
+      "id": "\"12\"",
+      "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/12.png",
+      "optionsDE": [
+        "Pfeil 1 zeigt auf einen stark kalzifizierten arteriosklerotischen Plaque einer Arterie.",
+        "Pfeil 2 zeigt nicht die Region im sonographischen Bild an, in der ein „akustischer Schatten“ des Ultraschalls durch den Kalkplaque auftritt.",
+        "Der Kalkplaque verursacht einen kompletten Gefäßverschluss. ",
+        "Arteriosklerotische Plaques sind normalerweise fettreich und sehr selten verkalkt."
+      ],
+      "optionsEN": [
+        "Arrow 1 indicates a heavily calcified arterioscleotic plaque within an arterial wall.",
+        "Arrow 2 does not indicate an area of „acoustic ultrasound shadowing“ caused by the calcified plaque.",
+        "There is complete vascular occlusion caused by the calcified atherosclerotic plaque.",
+        "Atherosclerotic plaques are normally „fatty plaques“ and are very rarely calcified."
+      ],
+      "optionsFR": [
+        "La flèche 1 indique une plaque athéroscléreuse fortement calcifiée dans une artère.",
+        "La flèche 2 n’indique pas la région de l’image échographique où une « ombre acoustique » de l’échographie se produit en raison de la plaque calcifiée.",
+        "La plaque de calcium provoque un blocage complet des vaisseaux sanguins.",
+        "Les artères artérioscléreuses sont généralement riches en graisse et très rarement calcifiées."
+      ],
+      "textDE": " Welche Aussage trifft zu?",
+      "textEN": " Which of the following statements is correct?",
+      "textFR": "Quelle affirmation est correcte ?"
+    }
+  ],
+  "6": [
+    "Pathologien von Venen",
+    {
+      "correctOptionIndex": 1,
+      "explanationDE": "Einen venösen Thrombus kann man sonographisch an seiner erhöhten Echogenität und an seiner unregelmäßigen, intraluminalen Struktur erkennen. Die Vene kann man hier von der Arterie unterscheiden, da sein Lumen nicht ganz rund ist und die Vene eine dünnere Gefäßwand besitzt als die Arterie (hier unterhalb der Vene). Ein arteriosklerotischer, arterieller Plaque würde an der Arterienwand haften und nicht wie der venöse Thrombus hier frei im Lumen liegen.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"1\"",
+      "imageUrl": "/Quizfragen_Bilder/5_Pathologien_von_Venen/1.png",
+      "optionsDE": [
+        "Einen normalen Gefäßbefund.",
+        "Ein Thrombus (Blutgerinnsel, Clot) ist im Lumen der Vena jugularis interna zu sehen (grüner Pfeil).",
+        "Der Pfeil deutet auf einen arteriosklerotischen Plaque in einer Arterie.",
+        "Gezeigt ist die Aneurysmabildung eines Gefäßes, ohne relevanten Krankheitswert."
+      ],
+      "optionsEN": [
+        "This is a normal sonographic finding of a vascular structure. ",
+        "A thrombus (blood clot) is visible within the lumen of the internal jugular vein (green arrow).",
+        "An arteriosclerotic plaque within an artery.",
+        "Aneurysmal dialtion of a vessel that would otherwise appear normal."
+      ],
+      "optionsFR": [
+        "Un résultat vasculaire normal.",
+        "Un caillot sanguin (thrombus) est visible dans la lumière de la veine jugulaire interne (flèche verte).",
+        "Une plaque athéroscléreuse dans une artère.",
+        "La formation d’un anévrisme dans un vaisseau qui, autrement, aurait été jugé normal."
+      ],
+      "textDE": "Was ist hier zu finden und welche Aussage trifft zu?",
+      "textEN": "What can be observed here and which the following statements is correct?",
+      "textFR": "Que peut-on trouver ici et quelle affirmation est correcte ?"
+    },
+    {
+      "correctOptionIndex": 1,
+      "id": "\"2\"",
+      "imageUrl": "/Quizfragen_Bilder/5_Pathologien_von_Venen/2.png",
+      "optionsDE": [
+        "Die Abbildung zeigt einen arteriosklerotischen Plaque der A. carotis communis.",
+        "Die Abbildung zeigt einen Thrombus (Blutgerinnsel, Clot) in der Jugularvene, welcher locker an der Gefäßwand anhaftet.",
+        "Das Lumen des Gefäßes ist vollständig eingeengt durch die Struktur.",
+        "Es handelt sich um zwei B-Bilder, welche nur Gefäßquerschnitte zeigen."
+      ],
+      "optionsEN": [
+        "This image clearly shows an arteriosclerotic plaque within carotid artery.",
+        "This image shows a venous thrombus (blood clot) of the jugular vein, loosely attached to the vessel wall.",
+        "The vessel lumen is completely obstructed by the structure.",
+        "Both ultrasound B-mode images show only transversal vessel cross-sections."
+      ],
+      "optionsFR": [
+        "L'image montre clairement une plaque d'athérosclérose de l'artère carotide",
+        "L’illustration montre un caillot de sang veineux (thrombus) dans la veine jugulaire, qui est faiblement attaché à la paroi vasculaire",
+        "La lumière du vaisseau est complètement rétrécie par la structure. ",
+        "Il s'agit d'une paire de B-scans qui montrent uniquement des coupes transversales des vaisseaux. "
+      ],
+      "textDE": "Welche Aussage trifft zu?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": "Quelle affirmation est vraie?"
+    },
+    {
+      "correctOptionIndex": 2,
+      "explanationDE": "Hier sieht man einen Thrombus in der Vena jugularis interna. Da diese Vene anatomisch unter dem M. sternocleidomasteoideus liegt, sind die Vene und auch der Thrombus (grüner Pfeil) nicht tastbar. Bei oberflächlichen Thrombophlebitiden z.B. in der V. saphena magna, kann ein tastbarer schmerzhafter Strang typisch sein. Der venöse Blutfluss ist links mit abgegrenzten Farbflächen (blau und rot) gekennzeichnet, was leichte Verwirbelungen des Blutes im Bereich des\n  Thrombus anzeigt (linkes Bild, Längsschnitt durch die Vene).",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"3\"",
+      "imageUrl": "/Quizfragen_Bilder/5_Pathologien_von_Venen/3.png",
+      "optionsDE": [
+        "Das farbkodierte Bild zeigt Blutfluss klar außerhalb des Gefäßes an.  ",
+        "Durch die farbcodierte Duplexsonographie kann man v.a. im rechten Bild(B) Verwirbelungen des Blutes erkennen.",
+        "Beide Pfeile zeigen auf einen Thrombus (Blutgerinnsel, Clot), dargestellt in einer transversalen Bildebene (A) und in der longitudinalen Bildebene (B).",
+        "Die V. jugularis interna ist durch dieses Krankheitsbild in manchen Fällen als verhärteter schmerzhafter Strang tastbar."
+      ],
+      "optionsEN": [
+        "The color coded images show flow outside of the blood vessels",
+        "Colour-coded Doppler sonography reveals turbulent blood flow, particularly in the right image (B).",
+        "Both arrows indicate a venous blood clot (thrombus) shown in  transversal- (A) and a longitudinal (B) planes of the images.",
+        "In some cases, the internal jugular vein can be palpated as a firm and painful cord due to this pathology."
+      ],
+      "optionsFR": [
+        "L’image à code couleur montre clairement le flux sanguin à l’extérieur du vaisseau.",
+        "L'échographie duplex à code couleur permet de détecter les turbulences dans le sang, en particulier sur l'image de droite.",
+        "Les deux flèches pointent vers un caillot sanguin veineux (caillot, thrombus), représenté dans un plan d'image transversal (A) et dans le plan d'image longitudinal (B).",
+        "En raison de ce tableau clinique, la veine jugulaire interne peut dans certains cas être palpée comme un cordon durci et douloureux."
+      ],
+      "textDE": " Welche der folgenden Aussage trifft zu?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": " Laquelle des affirmations suivantes est vraie ?"
+    },
+    {
+      "correctOptionIndex": 0,
+      "explanationDE": "Ein solcher venöser Thrombus kann gefährlich werden, da der Thrombus sich von der Gefäßwand lösen und abschwimmen kann. So kann er über den venösen Blutfluss Lungengefäße erreichen und zu einer Lungenembolie führen. Ein organisierter, älterer Thrombus haftet hingegen meist sehr fest an der Wand, bewegt sich nicht frei im Blutstrom und hat somit ein geringes Embolierisiko.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"4\"",
+      "imageUrl": "/Quizfragen_Bilder/5_Pathologien_von_Venen/4.gif",
+      "optionsDE": [
+        "Man erkennt in diesem Video einen flottierenden Thrombus vor einer Venenklappe.",
+        "Das dargestellte Gefäß auf dem Video ist wahrscheinlich eine Arterie.",
+        "Bei diesem Befund besteht keine Gefahr für eine Lungenembolie.",
+        "Die Struktur im Blutstrom erscheint sonographisch „echoreich“ und somit ungefährlich, da sie bereits organisiert ist."
+      ],
+      "optionsEN": [
+        "In this video, a floating thrombus can be identified within the lumen of a vein located behind a venous valve.",
+        "The vessel shown must be an artery.",
+        "There is no risk of pulmoray embolims associated with this finding.",
+        "The intraluminal structure appears to be „echogenic“ and therefore must already be organised and harmless."
+      ],
+      "optionsFR": [
+        "Dans cette vidéo, vous pouvez voir un thrombus flottant devant une valve veineuse.",
+        "Le vaisseau montré dans la vidéo doit être une artère.",
+        "Avec cette constatation, il n’y a aucun risque d’embolie pulmonaire.",
+        "La structure dans la circulation sanguine apparaît échographiquement « hypoéchogène » ou contenant des échos et est donc inoffensive, car elle est déjà organisée."
+      ],
+      "textDE": "Welche der folgenden Aussagen trifft zu?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": "Laquelle des affirmations suivantes est vraie ?"
+    },
+    {
+      "correctOptionIndex": 1,
+      "id": "\"5\"",
+      "imageUrl": "/Quizfragen_Bilder/5_Pathologien_von_Venen/5.png",
+      "optionsDE": [
+        "Bei diesem Befund besteht nicht die Gefahr einer Lungenembolie.",
+        "Pfeil 1 zeigt auf ein ein Thrombus (Blutgerinnsel, Clot) in der V. saphena magna. Pfeil 2 zeigt auf den Thrombus in der V. femoralis.",
+        "Pfeil 2 zeigt auf ein Blutgerinnsel in der Arteria femoralis.",
+        "Es ist ein kalkreicher, arteriosklerotischer Plaque in einer Arterie zu erkennen."
+      ],
+      "optionsEN": [
+        "This sonographic finding is not associated with an increased risk of pulmonary embolism.",
+        "Arrow 1 indicates a thrombus (blood clot) within the saphenous vein. Arrow 2 indicates a thrombus within the femoral vein.",
+        "Arrow 2 indicates a thrombus in the  common femoral artery.",
+        "The image demonstrates a tyical appearance of a calcium-rich arteriosclerotic plaque within an artery."
+      ],
+      "optionsFR": [
+        "Avec cette constatation, il n’y a aucun risque d’embolie pulmonaire.",
+        "La flèche 1 indique un caillot sanguin (thrombus) dans la grande veine saphène. La flèche 2 pointe vers le caillot (thrombus) dans la veine fémorale (jonction du système veineux profond et superficiel dans l'aine).",
+        "La flèche 2 indique un caillot sanguin dans l’artère fémorale.",
+        "Une plaque calcifiée et artérioscléreuse peut être observée dans une artère."
+      ],
+      "textDE": "Welche der folgenden Aussagen ist richtig?",
+      "textEN": "Which of the following statements is correct?",
+      "textFR": "Laquelle des affirmations suivantes est correcte ?"
+    },
+    {
+      "correctOptionIndex": 2,
+      "id": "\"6\"",
+      "imageUrl": "/Quizfragen_Bilder/5_Pathologien_von_Venen/6.gif",
+      "optionsDE": [
+        "Eine venöse Aufzweigung und eine Venenklappe. ",
+        "Ein Blutgerinnsel im Gefäßlumen eines venösen Gefäßes, das wahrscheinlich durch milde Kompression der untersuchten Region nachgewiesen wurde.",
+        "Ein Aneurysma der Femoralarterie.",
+        "Mehrere arterielle und venöse Gefäße, die übereinander liegend dargestellt wurden."
+      ],
+      "optionsEN": [
+        "The presence of a venous bifurcation and a venos valve.",
+        "A thrombus (blood clot) in a vein, indicated by incomplete external vein compression.",
+        "A aneurysmal dilation of the femoral artery.",
+        "Several arterial and venous vessels visualized on top of each other."
+      ],
+      "optionsFR": [
+        "Une branche veineuse et une valvule veineuse.",
+        "Un caillot sanguin dans la lumière vasculaire d'une branche veineuse, détecté par une légère compression de la région examinée.",
+        "Un anévrisme de l'artère fémorale.",
+        "Plusieurs vaisseaux artériels et veineux représentés couchés les uns sur les autres."
+      ],
+      "textDE": "Welche Gefäßkonfiguration kann 𝗻𝗶𝗰𝗵𝘁 von diesem Video abgeleitet werden?",
+      "textEN": "Which vascular finding cannot be derived from this ultrasound video?",
+      "textFR": "Quelle configuration de vaisseau sanguin ne peut pas être déduite de cette vidéo ?"
+    },
+    {
+      "correctOptionIndex": 2,
+      "explanationDE": "Eine arteriovenöse Fistel beschreibt eine pathologische Verbindung zwischen einer Arterie und Vene. Diese kann man im Ultraschall anhand des turbulenten Mischflusses und „Aliasing“ erkennen. Die Farben wechseln schnell zwischen Rot und Blau. Manchmal kann man ein -Jet-Phänomen- erkennen, bei dem deutlich sichtbare helle Farbjets vom arteriellen in das venöse Lumen strömen.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
+      "id": "\"7\"",
+      "imageUrl": "/Quizfragen_Bilder/5_Pathologien_von_Venen/7.gif",
+      "optionsDE": [
+        "Eine Stenose der A. femoralis.",
+        "Ein Thrombus (Blutgerinnsel, Clot) in der A. femoralis.",
+        "Eine AV-Fistel der A. femoralis und V. femoralis (grüner Pfeil).",
+        "Ein Thrombus in der V. femoralis."
+      ],
+      "optionsEN": [
+        "A stenosis of the femoral artery.",
+        "A thrombus in the femoral artery.",
+        "An arteriovenous fistula between the femoral artery and the femoral vein.",
+        "A thrombus within the femoral vein."
+      ],
+      "optionsFR": [
+        "Une sténose de l'artère fémorale.",
+        "Un caillot (thrombus) dans l’artère fémorale.",
+        "Une fistule AV de l'artère fémorale et de la veine fémorale (flèche verte).",
+        "Un caillot (thrombus) dans la veine fémorale."
+      ],
+      "textDE": "Welche Pathologie ist hier zu erkennen?",
+      "textEN": "Which pathology can be recognized here? ",
+      "textFR": "Quelle pathologie peut-on observer ici ?"
+    }
+  ],
+  "explanation": {
+    "textDE": [
+      "Dies ist meine erste Erklärung.",
+      "Dies ist meine zweite Erklärung.",
+      "Dies ist meine dritte Erklärung."
+    ],
+    "textEN": [
+      "Exp0",
+      "Exp1",
+      "Our quiz can be used to study anatomy, physiology and illnesses of vascular structures in cardiovascular medicine. Our medium is ultrasound which is harmless for the human body."
+    ]
+  }
+}
