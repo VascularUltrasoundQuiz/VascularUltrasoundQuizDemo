@@ -1,11 +1,11 @@
 {
-    "name": "vascularultrasoundquizoffline_demo",
-    "short_name": "vascularultrasoundquizoffline_demo",
+    "name": "vascularultrasoundquiz_demo2",
+    "short_name": "vascularultrasoundquiz_demo2",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Demo of the Vascular Ultrasound Quiz.",
+    "description": "A Demo of the Vascular Ultrasound PWA.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
